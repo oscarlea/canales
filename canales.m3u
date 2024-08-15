@@ -47,7 +47,7 @@ http://190.60.33.245:4002/play/a0ux/index.m3u8
 http://190.60.33.245:4002/play/a0gv/index.m3u8
 #EXTINF:-1,E!
 http://190.60.33.245:4002/play/a0vh/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn.png", ESPN
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn.jpg", ESPN
 http://190.60.33.245:4002/play/a0n6/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn2.jpg", ESPN 2 HD
 http://190.60.33.245:4002/play/a0sz/index.m3u8
