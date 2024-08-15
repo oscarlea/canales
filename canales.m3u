@@ -63,7 +63,7 @@ http://190.60.33.245:4002/play/a0sb/index.m3u8
 http://190.60.33.245:4002/play/a0dh/index.m3u8
 #EXTINF:-1,ESPN HD
 http://190.60.33.245:4002/play/a0dm/index.m3u8
-#EXTINF:-1, tvg-logo="https://github.com/oscarlea/canales/blob/Master/tvg-logo/ESPN_Premium.png", ESPN Premium HD
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/ESPN_Premium.png", ESPN Premium HD
 http://190.60.33.245:4002/play/a0d5/index.m3u8
 #EXTINF:-1,ESPN2
 http://190.60.33.245:4002/play/a0n7/index.m3u8
