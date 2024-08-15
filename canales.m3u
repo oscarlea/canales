@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/animalplanet.jpg", A&E
+#EXTINF:-1, A&E
 http://190.60.33.245:4002/play/a0v6/index.m3u8
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/animalplanet.jpg", ANIMAL PLANET
 http://190.60.33.245:4002/play/a0sx/index.m3u8
 #EXTINF:-1,AXN
 http://190.60.33.245:4002/play/a0v8/index.m3u8
