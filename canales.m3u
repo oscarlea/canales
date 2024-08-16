@@ -117,7 +117,7 @@ http://190.60.33.245:4002/play/a0cu/index.m3u8
 http://190.60.33.245:4002/play/a0h0/index.m3u8
 #EXTINF:-1,TRAVEL & LIVING
 http://190.60.33.245:4002/play/a0go/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_universal-channel_m.png", UNIVERSAL CHANNEL
 http://190.60.33.245:4002/play/a0va/index.m3u8
 #EXTINF:-1,USA
 http://190.60.33.245:4002/play/a0v9/index.m3u8
