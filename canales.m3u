@@ -105,7 +105,7 @@ http://190.60.33.245:4002/play/a0t1/index.m3u8
 http://190.60.33.245:4002/play/a0cy/index.m3u8
 #EXTINF:-1,STAR TVE HD
 http://190.60.33.245:4002/play/a0sv/index.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_studio-universal_m.png", STUDIO UNIVERSAL
 http://190.60.33.245:4002/play/a0v4/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/tcm.jpg", TCM
 http://190.60.33.245:4002/play/a0ep/index.m3u8
