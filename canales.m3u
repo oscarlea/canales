@@ -15,9 +15,9 @@ http://190.60.33.245:4002/play/a0ss/index.m3u8
 http://190.60.33.245:4002/play/a0so/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cinecanal.jpg", Cinecanal Esp
 http://190.60.33.245:4002/play/a0li/index.m3u8
-#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/881/893/png-transparent-cinemax-hd-logo-thumbnail.png", Cinemax HD
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_cinemax_m.png", Cinemax HD
 http://190.60.33.245:4002/play/a0sf/index.m3u8
-#EXTINF:-1,CNN ESPANOL
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/c_cnnespanol.jpg", CNN ESPANOL
 http://190.60.33.245:4002/play/a0gq/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/comedycentral.jpg", Comedy Central HD
 http://190.60.33.245:4002/play/a0sg/index.m3u8
@@ -33,7 +33,7 @@ http://190.60.33.245:4002/play/a0db/index.m3u8
 http://190.60.33.245:4002/play/a0ej/index.m3u8
 #EXTINF:-1,DISCOVERY THEATER
 http://190.60.33.245:4002/play/a0t5/index.m3u8
-#EXTINF:-1,DISCOVERY TURBO
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/c_discoveryturbo.jpg", DISCOVERY TURBO
 http://190.60.33.245:4002/play/a0g2/index.m3u8
 #EXTINF:0,DISCOVERY WORLD
 http://190.60.33.245:4002/play/a0sn/index.m3u8
@@ -65,7 +65,7 @@ http://190.60.33.245:4002/play/a0dh/index.m3u8
 http://190.60.33.245:4002/play/a0dm/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/ESPN_Premium.png", ESPN Premium HD
 http://190.60.33.245:4002/play/a0d5/index.m3u8
-#EXTINF:-1,ESPN2
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn2.jpg", ESPN2
 http://190.60.33.245:4002/play/a0n7/index.m3u8
 #EXTINF:-1,ETC TV
 http://190.60.33.245:4002/play/a0uw/index.m3u8
@@ -93,9 +93,9 @@ http://190.60.33.245:4002/play/a0mx/index.m3u8
 http://190.60.33.245:4002/play/a0sj/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/paramount.jpg", Paramount HD
 http://190.60.33.245:4002/play/a0st/index.m3u8
-#EXTINF:-1,SONY CHANNEL
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png", SONY CHANNEL
 http://190.60.33.245:4002/play/a0v7/index.m3u8
-#EXTINF:-1,SONY MOVIES
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png", SONY MOVIES
 http://190.60.33.245:4002/play/a0uy/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/space.jpg", SPACE
 http://190.60.33.245:4002/play/a0sy/index.m3u8
@@ -121,5 +121,5 @@ http://190.60.33.245:4002/play/a0go/index.m3u8
 http://190.60.33.245:4002/play/a0va/index.m3u8
 #EXTINF:-1,USA
 http://190.60.33.245:4002/play/a0v9/index.m3u8
-#EXTINF:-1,Warner Channel
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_warner_m.png", Warner Channel
 http://190.60.33.245:4002/play/a0tp/index.m3u8
