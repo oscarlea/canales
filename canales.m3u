@@ -126,5 +126,3 @@ http://190.242.41.219:8000/play/a05f/index.m3u8
 # comentario USA US; http://190.60.33.245:4002/play/a0v9/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_warner_m.png", Warner Channel
 http://190.60.33.245:4002/play/a0tp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEX: TRU TV" tvg-logo="https://docdog.top/logo/countries/mexico/trutv.png" group-title="LAME | MEXICO",MEX: TRU TV
-http://onceeer.top:8080/771704303084133/3404c641fe59/52588
