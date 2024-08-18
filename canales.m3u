@@ -96,8 +96,13 @@ http://190.60.33.245:4002/play/a0sj/index.m3u8
 http://190.60.33.245:4002/play/a0st/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png", SONY CHANNEL
 http://190.60.33.245:4002/play/a0v7/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png", SONY MOVIES
-http://190.60.33.245:4002/play/a0uy/index.m3u8
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png", SONY MOVIES HD
+http://190.211.102.42:4000/play/a06x/index.m3u8
+# comentario : http://190.60.33.245:4002/play/a0uy/index.m3u8
+#EXTINF:-1,SONY
+http://190.211.102.42:4000/play/a053/index.m3u8
+#EXTINF:-1,SONY HD
+http://190.211.102.42:4000/play/a05i/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/space.jpg", SPACE
 http://190.60.33.245:4002/play/a0sy/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/starchannel.jpg", STAR CHANNEL
