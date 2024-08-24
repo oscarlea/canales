@@ -11,11 +11,11 @@ http://190.60.33.245:4002/play/a0d2/index.m3u8
 http://190.60.33.245:4002/play/a0mw/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cartoonnetwork.jpg", CARTOON NETWORK
 http://190.60.33.245:4002/play/a0ss/index.m3u8
-#EXTINF:-1, tvg-language="English" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cinecanal.jpg", CINECANAL Us
+#EXTINF:-1, tvg-language="English" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cinecanal.jpg" group-title="Movies", CINECANAL Us
 http://190.60.33.245:4002/play/a0so/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cinecanal.jpg", Cinecanal Esp
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cinecanal.jpg" group-title="Movies", Cinecanal Esp
 http://190.60.33.245:4002/play/a0li/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_cinemax_m.png", Cinemax HD
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_cinemax_m.png" group-title="Movies", Cinemax HD
 http://190.60.33.245:4002/play/a0sf/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/c_cnnespanol.jpg", CNN ESPANOL
 http://190.60.33.245:4002/play/a0gq/index.m3u8
@@ -41,7 +41,7 @@ http://190.60.33.245:4002/play/a0sn/index.m3u8
 http://190.60.33.245:4002/play/a0s7/index.m3u8
 #EXTINF:-1,DISTRITO COMEDIA
 http://190.60.33.245:4002/play/a0du/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/dreamworks.png", DREAMWORKS
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/dreamworks.png" , DREAMWORKS
 http://190.60.33.245:4002/play/a0ux/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/dw.jpg", DW
 http://190.60.33.245:4002/play/a0gv/index.m3u8
@@ -94,31 +94,32 @@ http://190.60.33.245:4002/play/a0mx/index.m3u8
 http://190.60.33.245:4002/play/a0sj/index.m3u8
 #EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/paramount.jpg", Paramount HD
 http://190.60.33.245:4002/play/a0st/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png", SONY CHANNEL
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png" group-title="Movies", SONY CHANNEL
 http://190.60.33.245:4002/play/a0v7/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png", SONY CHANNEL
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png" group-title="Movies", SONY CHANNEL
 http://190.60.33.245:4002/play/a0uy/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png", SONY CHANNEL
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png" group-title="Movies", SONY CHANNEL
 http://190.211.102.42:4000/play/a053/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png", SONY CHANNEL HD
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png" group-title="Movies", SONY CHANNEL HD
 http://190.211.102.42:4000/play/a05i/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png", SONY MOVIES HD
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_sony_m.png" group-title="Movies", SONY MOVIES HD US
 http://190.211.102.42:4000/play/a06x/index.m3u8
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",SONY CINE (720p)
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies", SONY CINE (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/space.jpg", SPACE
+
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/space.jpg" group-title="Movies", SPACE
 http://190.60.33.245:4002/play/a0sy/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/starchannel.jpg", STAR CHANNEL
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/starchannel.jpg" group-title="Movies", STAR CHANNEL
 http://190.60.33.245:4002/play/a0t1/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/starchannel.jpg", STAR CHANNEL HD
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/starchannel.jpg" group-title="Movies", STAR CHANNEL HD
 http://190.60.33.245:4002/play/a0cy/index.m3u8
-#EXTINF:-1,STAR TVE HD
+#EXTINF:-1 group-title="Movies", STAR TVE HD
 http://190.60.33.245:4002/play/a0sv/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_studio-universal_m.png", STUDIO UNIVERSAL
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_studio-universal_m.png" group-title="Movies", STUDIO UNIVERSAL
 http://190.60.33.245:4002/play/a0v4/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/tcm.jpg", TCM
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/tcm.jpg" group-title="Movies", TCM
 http://190.60.33.245:4002/play/a0ep/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/tnt.jpg", TNT
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/tnt.jpg" group-title="Movies", TNT
 http://190.60.33.245:4002/play/a0s9/index.m3u8
 #EXTINF:-1,TNT NOVELAS
 http://190.60.33.245:4002/play/a0cu/index.m3u8
@@ -127,10 +128,10 @@ http://190.211.102.42:4000/play/a079/index.m3u8
 # comentarios : http://190.60.33.245:4002/play/a0h0/index.m3u8
 #EXTINF:-1,TRAVEL & LIVING
 http://190.60.33.245:4002/play/a0go/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_universal-channel_m.png", UNIVERSAL CHANNEL
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_universal-channel_m.png" group-title="Movies", UNIVERSAL CHANNEL
 http://190.60.33.245:4002/play/a0va/index.m3u8
 #EXTINF:-1,USA ESP
 http://190.242.41.219:8000/play/a05f/index.m3u8
 # comentario USA US; http://190.60.33.245:4002/play/a0v9/index.m3u8
-#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_warner_m.png", Warner Channel
+#EXTINF:-1, tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_warner_m.png" group-title="Movies", Warner Channel
 http://190.60.33.245:4002/play/a0tp/index.m3u8
