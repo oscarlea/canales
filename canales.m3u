@@ -78,17 +78,13 @@ http://190.60.33.245:4002/play/a0ux/index.m3u8
 http://190.60.33.245:4002/play/a0gv/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn.jpg" group-title="ESPN",ESPN
 http://190.60.33.245:4002/play/a0n6/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn.jpg" group-title="ESPN",ESPN 6 HD
-http://190.60.33.245:4002/play/a0sb/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn.jpg" group-title="ESPN",ESPN 7 HD
-http://190.60.33.245:4002/play/a0dh/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn.jpg" group-title="ESPN",ESPN HD
 http://190.60.33.245:4002/play/a0dm/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/ESPN_Premium.png" group-title="ESPN",ESPN Premium HD
 http://190.60.33.245:4002/play/a0d5/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn2.jpg" group-title="ESPN",ESPN 2 HD
 http://190.60.33.245:4002/play/a0sz/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn2.jpg" group-title="ESPN",ESPN2
+#EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn2.jpg" group-title="ESPN",ESPN 2
 http://190.60.33.245:4002/play/a0n7/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn3.jpg" group-title="ESPN",ESPN 3 HD
 http://190.60.33.245:4002/play/a0sa/index.m3u8
@@ -96,6 +92,10 @@ http://190.60.33.245:4002/play/a0sa/index.m3u8
 http://190.60.33.245:4002/play/a0uk/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn5.png" group-title="ESPN",ESPN 5 HD
 http://190.60.33.245:4002/play/a0m3/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn.jpg" group-title="ESPN",ESPN 6 HD
+http://190.60.33.245:4002/play/a0sb/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/espn.jpg" group-title="ESPN",ESPN 7 HD
+http://190.60.33.245:4002/play/a0dh/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/foodnetwork.jpg" group-title="5 - DOCUMENTAL",FOOD NETWORK
 http://190.60.33.245:4002/play/a0f1/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/nationalgeographic.jpg" group-title="5 - DOCUMENTAL",NATIONAL GEOGRAPHIC (720P)
