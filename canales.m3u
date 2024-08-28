@@ -12,6 +12,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/150px-ETC.png" group-title="ENTRETENIMIENTO",ETC TV
 http://190.60.33.245:4002/play/a0uw/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/animalplanet.jpg" group-title="5 - DOCUMENTAL",ANIMAL PLANET
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/73082
 http://190.60.33.245:4002/play/a0sx/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/c_cnnespanol.jpg" group-title="NOTICIAS",CNN ESPANOL
 http://190.60.33.245:4002/play/a0gq/index.m3u8
