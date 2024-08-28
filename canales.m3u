@@ -117,7 +117,7 @@ http://190.60.33.245:4002/play/a0ep/index.m3u8
 http://190.60.33.245:4002/play/a0s9/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/tntseries.jpg" group-title="2 - SERIES",TNT Series HD
 http://190.60.33.245:4002/play/a0h0/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5piy5bnV1QzAfV3pWHC61dChST7n1vLf9pBf5i3hk83Wpu_a" group-title="2024",Tarot de la muerte (2024)
+#EXTINF:-1  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5piy5bnV1QzAfV3pWHC61dChST7n1vLf9pBf5i3hk83Wpu_a" group-title="PELICULAS 2024",Tarot de la muerte (2024)
 http://pro.boxdigital.org:8080/movie/hugok28395/92JfxmTfjcxz/282097.mp4
-#EXTINF:-1  tvg-id="" tvg-logo="https://pics.filmaffinity.com/Furiosa_De_la_saga_Mad_Max-111821720-large.jpg" group-title="2024",Furiosa: De la Saga Mad Max (2024)
+#EXTINF:-1  tvg-id="" tvg-logo="https://pics.filmaffinity.com/Furiosa_De_la_saga_Mad_Max-111821720-large.jpg" group-title="PELICULAS 2024",Furiosa: De la Saga Mad Max (2024)
 http://pro.boxdigital.org:8080/movie/hugok28395/92JfxmTfjcxz/284287.mp4
