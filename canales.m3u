@@ -57,7 +57,7 @@ http://190.211.102.42:4000/play/a05i/index.m3u8
 #EXTINF:-1  tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="1 - Movies",SONY CINE (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_studio-universal_m.png" group-title="1 - Movies",STUDIO UNIVERSAL
-http://190.60.33.245:4002/play/a0v4/index.m3u8
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/182123
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_universal-channel_m.png" group-title="1 - Movies",UNIVERSAL CHANNEL
 http://190.60.33.245:4002/play/a0va/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_warner_m.png" group-title="1 - Movies",Warner Channel
