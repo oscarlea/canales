@@ -1,161 +1,193 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="Pluto TV Sci-Fi" tvg-id="" tvg-logo="http://boxdigital.xyz:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTO TV ESPAÑA",Pluto TV Sci-Fi
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/212506
-#EXTINF:-1  tvg-name="PREM HD: AMC" tvg-id="" tvg-logo="https://pyxis.nymag.com/v1/imgs/edf/268/d49ab6600c875d79022497903784a9f6ce-27-amc-logo.rsquare.w330.jpg" group-title="CINE",PREM HD: AMC
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182099
-#EXTINF:-1  tvg-name="PREM HD: AMC EAST" tvg-id="" tvg-logo="https://pyxis.nymag.com/v1/imgs/edf/268/d49ab6600c875d79022497903784a9f6ce-27-amc-logo.rsquare.w330.jpg" group-title="CINE",PREM HD: AMC EAST
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182051
-#EXTINF:-1  tvg-name="PREM HD: AMC WEST" tvg-id="" tvg-logo="https://pyxis.nymag.com/v1/imgs/edf/268/d49ab6600c875d79022497903784a9f6ce-27-amc-logo.rsquare.w330.jpg" group-title="CINE",PREM HD: AMC WEST
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182052
-#EXTINF:-1  tvg-name="PREM HD: AXN" tvg-id="" tvg-logo="https://logoquizgame-answers.com/wp-content/uploads/2014/08/logos-quiz-0836.jpg" group-title="CINE",PREM HD: AXN
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182100
-#EXTINF:-1  tvg-name="PREM HD: AXN 2" tvg-id="" tvg-logo="https://logoquizgame-answers.com/wp-content/uploads/2014/08/logos-quiz-0836.jpg" group-title="CINE",PREM HD: AXN 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182053
-#EXTINF:-1  tvg-name="PREM HD: CINE DINAMITA" tvg-id="" tvg-logo="https://th.bing.com/th/id/R.e798f402f64e5084e0093af192e707d2?rik=ZgOx94tddZlH2Q&riu=http%3a%2f%2fwww.newslinereport.com%2fonline%2fnota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg&ehk=vKE2dFj%2fiEMUncv0GkRGF6839UbpmBaJQMnrOLctuC8%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="CINE",PREM HD: CINE DINAMITA
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182101
-#EXTINF:-1  tvg-name="PREM HD: CINECANAL" tvg-id="" tvg-logo="https://4vector.com/i/free-vector-cinecanal_048372_cinecanal.png" group-title="CINE",PREM HD: CINECANAL
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182102
-#EXTINF:-1  tvg-name="PREM HD: CINECANAL EAST" tvg-id="" tvg-logo="https://4vector.com/i/free-vector-cinecanal_048372_cinecanal.png" group-title="CINE",PREM HD: CINECANAL EAST
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182054
-#EXTINF:-1  tvg-name="PREM HD: CINEMAX EAST" tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/738-7388443_cinemax-png.png" group-title="CINE",PREM HD: CINEMAX EAST
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182056
-#EXTINF:-1  tvg-name="PREM HD: CINEMAX | op1" tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/738-7388443_cinemax-png.png" group-title="CINE",PREM HD: CINEMAX | op1
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182055
-#EXTINF:-1  tvg-name="PREM HD: FX" tvg-id="" tvg-logo="https://www.themarysue.com/wp-content/uploads/2016/08/FX-Logo.jpg" group-title="CINE",PREM HD: FX
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182107
-#EXTINF:-1  tvg-name="PREM HD: FX 2" tvg-id="" tvg-logo="https://www.themarysue.com/wp-content/uploads/2016/08/FX-Logo.jpg" group-title="CINE",PREM HD: FX 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182050
-#EXTINF:-1  tvg-name="PREM HD: FXM" tvg-id="" tvg-logo="https://logodix.com/logo/1860182.jpg" group-title="CINE",PREM HD: FXM
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182108
-#EXTINF:-1  tvg-name="PREM HD: FXM 2" tvg-id="" tvg-logo="https://logodix.com/logo/1860182.jpg" group-title="CINE",PREM HD: FXM 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182058
-#EXTINF:-1  tvg-name="PREM HD: GOLDEN" tvg-id="" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/55sky-logo-GoldenEdge-150x150-537973470.jpg" group-title="CINE",PREM HD: GOLDEN
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182059
-#EXTINF:-1  tvg-name="PREM HD: GOLDEN 2" tvg-id="" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/55sky-logo-GoldenEdge-150x150-537973470.jpg" group-title="CINE",PREM HD: GOLDEN 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182109
-#EXTINF:-1  tvg-name="PREM HD: GOLDEN EDGE" tvg-id="" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-edge-200x184-454653095.jpg" group-title="CINE",PREM HD: GOLDEN EDGE
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182060
-#EXTINF:-1  tvg-name="PREM HD: GOLDEN EDGE 2" tvg-id="" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-edge-200x184-454653095.jpg" group-title="CINE",PREM HD: GOLDEN EDGE 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182112
-#EXTINF:-1  tvg-name="PREM HD: GOLDEN EDGE 3" tvg-id="" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-edge-200x184-454653095.jpg" group-title="CINE",PREM HD: GOLDEN EDGE 3
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182110
-#EXTINF:-1  tvg-name="PREM HD: GOLDEN PLUS" tvg-id="" tvg-logo="https://appnew.megainfoapp.com/files/1/golden-plus.png" group-title="CINE",PREM HD: GOLDEN PLUS
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182111
-#EXTINF:-1  tvg-name="PREM HD: GOLDEN PLUS 2" tvg-id="" tvg-logo="https://appnew.megainfoapp.com/files/1/golden-plus.png" group-title="CINE",PREM HD: GOLDEN PLUS 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182061
-#EXTINF:-1  tvg-name="PREM HD: GOLDEN PREMIER 1" tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",PREM HD: GOLDEN PREMIER 1
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182062
-#EXTINF:-1  tvg-name="PREM HD: GOLDEN PREMIER 2" tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",PREM HD: GOLDEN PREMIER 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182063
-#EXTINF:-1  tvg-name="PREM HD: HBO" tvg-id="I348.80652.schedulesdirect.org" tvg-logo="https://th.bing.com/th/id/R.a831e079dcacf455b789c9fb46e23f9c?rik=z96c%2fgf%2fltRnlw&riu=http%3a%2f%2ftodovector.com%2fvector%2flogos%2ftv-canales%2f29.png&ehk=MjVO%2brm49EoPkDdnZ1kCbV8uTflEYWhESW4O%2bUE6C9I%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182113
-#EXTINF:-1  tvg-name="PREM HD: HBO (mex)" tvg-id="" tvg-logo="https://th.bing.com/th/id/R.a831e079dcacf455b789c9fb46e23f9c?rik=z96c%2fgf%2fltRnlw&riu=http%3a%2f%2ftodovector.com%2fvector%2flogos%2ftv-canales%2f29.png&ehk=MjVO%2brm49EoPkDdnZ1kCbV8uTflEYWhESW4O%2bUE6C9I%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO (mex)
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182064
-#EXTINF:-1  tvg-name="PREM HD: HBO +" tvg-id="" tvg-logo="https://th.bing.com/th/id/R.adfdda43847285c9bdff8c1618019a84?rik=oIbD47Yr63KDhA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-hbsg4DYqOpI%2fT_4c0d6ZuwI%2fAAAAAAAABjQ%2fkRM-jUoGwXc%2fs1600%2fhbo%2bplus%2bassisitir%2btv%2bonline%2bgratis%2b%2bespn%2b3%2c%2brecord%2c%2btvonline%2c%2bassista%2btv%2bon%2bline%2c%2bassistir%2btv%2bonline%2c%2bfutebol%2bonline%2c%2bver%2bfutebol%2bonline%2c%2btv%2boline%2c%2btvgratis%2c%2bjustin%2btv.jpg&ehk=ybrPZ11pqaMKytto3FaitpQsapg9fjrW%2bVTb%2f57CrOg%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO +
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182114
-#EXTINF:-1  tvg-name="PREM HD: HBO + | op2" tvg-id="" tvg-logo="https://th.bing.com/th/id/R.adfdda43847285c9bdff8c1618019a84?rik=oIbD47Yr63KDhA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-hbsg4DYqOpI%2fT_4c0d6ZuwI%2fAAAAAAAABjQ%2fkRM-jUoGwXc%2fs1600%2fhbo%2bplus%2bassisitir%2btv%2bonline%2bgratis%2b%2bespn%2b3%2c%2brecord%2c%2btvonline%2c%2bassista%2btv%2bon%2bline%2c%2bassistir%2btv%2bonline%2c%2bfutebol%2bonline%2c%2bver%2bfutebol%2bonline%2c%2btv%2boline%2c%2btvgratis%2c%2bjustin%2btv.jpg&ehk=ybrPZ11pqaMKytto3FaitpQsapg9fjrW%2bVTb%2f57CrOg%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO + | op2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182065
-#EXTINF:-1  tvg-name="PREM HD: HBO 2" tvg-id="" tvg-logo="https://www.pngarea.com/pngs/71/847343_hbo-logo-png-hbo-2-hd-png-download.png" group-title="CINE",PREM HD: HBO 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182115
-#EXTINF:-1  tvg-name="PREM HD: HBO 2 WEST" tvg-id="" tvg-logo="https://www.pngarea.com/pngs/71/847343_hbo-logo-png-hbo-2-hd-png-download.png" group-title="CINE",PREM HD: HBO 2 WEST
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182066
-#EXTINF:-1  tvg-name="PREM HD: HBO EAST" tvg-id="" tvg-logo="https://th.bing.com/th/id/R.a831e079dcacf455b789c9fb46e23f9c?rik=z96c%2fgf%2fltRnlw&riu=http%3a%2f%2ftodovector.com%2fvector%2flogos%2ftv-canales%2f29.png&ehk=MjVO%2brm49EoPkDdnZ1kCbV8uTflEYWhESW4O%2bUE6C9I%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO EAST
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182067
-#EXTINF:-1  tvg-name="PREM HD: HBO FAMILY" tvg-id="" tvg-logo="https://logodix.com/logo/789134.png" group-title="CINE",PREM HD: HBO FAMILY
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182116
-#EXTINF:-1  tvg-name="PREM HD: HBO FAMILY 2" tvg-id="" tvg-logo="https://logodix.com/logo/789134.png" group-title="CINE",PREM HD: HBO FAMILY 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182068
-#EXTINF:-1  tvg-name="PREM HD: HBO MUNDI" tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",PREM HD: HBO MUNDI
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182117
-#EXTINF:-1  tvg-name="PREM HD: HBO MUNDI | op2" tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",PREM HD: HBO MUNDI | op2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182069
-#EXTINF:-1  tvg-name="PREM HD: HBO POP" tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="CINE",PREM HD: HBO POP
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182070
-#EXTINF:-1  tvg-name="PREM HD: HBO SIGNATURE" tvg-id="" tvg-logo="https://th.bing.com/th/id/R.47ae7b7a8f34a9836aae3da2443bedea?rik=tdzFVXAN26OePw&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f916%2f74F18B353D9957D52DF832FEBA677F9C%2fHBO_Signature.png&ehk=PDXO7SlrvO3jUvRWU0cam9l8%2fpL461BQjZK9J%2fat3Lo%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO SIGNATURE
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182118
-#EXTINF:-1  tvg-name="PREM HD: HBO SIGNATURE (mex)" tvg-id="" tvg-logo="https://th.bing.com/th/id/R.47ae7b7a8f34a9836aae3da2443bedea?rik=tdzFVXAN26OePw&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f916%2f74F18B353D9957D52DF832FEBA677F9C%2fHBO_Signature.png&ehk=PDXO7SlrvO3jUvRWU0cam9l8%2fpL461BQjZK9J%2fat3Lo%3d&risl=&pid=ImgRaw&r=0" group-title="CINE",PREM HD: HBO SIGNATURE (mex)
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182071
-#EXTINF:-1  tvg-name="PREM HD: HBO WEST" tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.XT3SnuWdslgMMVeVACUQdQAAAA?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: HBO WEST
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182072
-#EXTINF:-1  tvg-name="PREM HD: HBO XTREME" tvg-id="" tvg-logo="https://archive.org/download/brunoflixlogos/hbo_xtreme.png" group-title="CINE",PREM HD: HBO XTREME
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182073
-#EXTINF:-1  tvg-name="PREM HD: HBO XTREME | op2" tvg-id="" tvg-logo="https://archive.org/download/brunoflixlogos/hbo_xtreme.png" group-title="CINE",PREM HD: HBO XTREME | op2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182119
-#EXTINF:-1  tvg-name="PREM HD: PARAMOUNT NETWORK" tvg-id="" tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/a/r/xparamount-channel.jpg.pagespeed.ic.BFvVxKouLU.jpg" group-title="CINE",PREM HD: PARAMOUNT NETWORK
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182120
-#EXTINF:-1  tvg-name="PREM HD: PARAMOUNT NETWORK 2" tvg-id="" tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/a/r/xparamount-channel.jpg.pagespeed.ic.BFvVxKouLU.jpg" group-title="CINE",PREM HD: PARAMOUNT NETWORK 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182075
-#EXTINF:-1  tvg-name="PREM HD: SONY CHANNEL" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE",PREM HD: SONY CHANNEL
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182076
-#EXTINF:-1  tvg-name="PREM HD: SONY CHANNEL | op2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE",PREM HD: SONY CHANNEL | op2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182077
-#EXTINF:-1  tvg-name="PREM HD: SPACE EAST" tvg-id="" tvg-logo="https://4.bp.blogspot.com/-up9acBiSpjQ/USeKRjmHTyI/AAAAAAAADBU/WQK4rt2ZN94/s1600/SPACE-logo.jpg" group-title="CINE",PREM HD: SPACE EAST
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182078
-#EXTINF:-1  tvg-name="PREM HD: STAR CHANNEL" tvg-id="" tvg-logo="https://blogs.eltiempo.com/esto-le-pasa/wp-content/uploads/sites/57/2021/02/Star-Channel-1020x1024.jpg" group-title="CINE",PREM HD: STAR CHANNEL
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182079
-#EXTINF:-1  tvg-name="PREM HD: STAR COMEDY 2" tvg-id="" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg" group-title="CINE",PREM HD: STAR COMEDY 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182082
-#EXTINF:-1  tvg-name="PREM HD: STARZ  ENCORE SUSPENSO" tvg-id="" tvg-logo="http://boxdigital.xyz:8080/images/b66d0efb07e6c08aea5fa9a5040cf2ed.png" group-title="CINE",PREM HD: STARZ  ENCORE SUSPENSO
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182084
-#EXTINF:-1  tvg-name="PREM HD: STARZ CINEMA" tvg-id="" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Cinema_200.jpg" group-title="CINE",PREM HD: STARZ CINEMA
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182080
-#EXTINF:-1  tvg-name="PREM HD: STARZ CINEMA" tvg-id="" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Cinema_200.jpg" group-title="CINE",PREM HD: STARZ CINEMA
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182081
-#EXTINF:-1  tvg-name="PREM HD: STUDIO UNIVERSAL" tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.f8H-Okbu2vjVkz4giuSGdQAAAA?w=200&h=200&rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: STUDIO UNIVERSAL
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182123
-#EXTINF:-1  tvg-name="PREM HD: STUDIO UNIVERSAL 2" tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.f8H-Okbu2vjVkz4giuSGdQAAAA?w=200&h=200&rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: STUDIO UNIVERSAL 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182093
-#EXTINF:-1  tvg-name="PREM HD: TCM" tvg-id="" tvg-logo="https://brandemia.org/sites/default/files/styles/medium/public/tcm_logo_portada.jpg?itok=klCabAci" group-title="CINE",PREM HD: TCM
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182094
-#EXTINF:-1  tvg-name="PREM HD: TCM 2" tvg-id="" tvg-logo="https://brandemia.org/sites/default/files/styles/medium/public/tcm_logo_portada.jpg?itok=klCabAci" group-title="CINE",PREM HD: TCM 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182124
-#EXTINF:-1  tvg-name="PREM HD: TNT" tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.ilk5KmlGWvNVGcaCRuQO7QAAAA?w=474&h=474&rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: TNT
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182125
-#EXTINF:-1  tvg-name="PREM HD: TNT 2 | op 2" tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.ilk5KmlGWvNVGcaCRuQO7QAAAA?w=474&h=474&rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: TNT 2 | op 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182095
-#EXTINF:-1  tvg-name="PREM HD: TNT SERIES" tvg-id="" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/04/TNT-Series.png" group-title="CINE",PREM HD: TNT SERIES
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73073
-#EXTINF:-1  tvg-name="PREM HD: TNT SERIES" tvg-id="" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/04/TNT-Series.png" group-title="CINE",PREM HD: TNT SERIES
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182096
-#EXTINF:-1  tvg-name="PREM HD: UNIVERSAL CHANNEL" tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.QM_GJ3WEVty8mBQCWN8glgAAAA?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: UNIVERSAL CHANNEL
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182097
-#EXTINF:-1  tvg-name="PREM HD: UNIVERSAL CINEMA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="CINE",PREM HD: UNIVERSAL CINEMA
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182046
-#EXTINF:-1  tvg-name="PREM HD: UNIVERSAL COMEDY" tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.CPKoy5tjjzV_BNidDbn2TAHaEC?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: UNIVERSAL COMEDY
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182047
-#EXTINF:-1  tvg-name="PREM HD: UNIVERSAL CRIMEN" tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.deUpVV-OWEoPzwwIDCr6gAAAAA?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: UNIVERSAL CRIMEN
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182048
-#EXTINF:-1  tvg-name="PREM HD: UNIVERSAL PREMIERE" tvg-id="" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/universal-premiere-logo.png" group-title="CINE",PREM HD: UNIVERSAL PREMIERE
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182049
-#EXTINF:-1  tvg-name="PREM HD: UNIVERSAL REALITY" tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.4UXtYk37rFIk7CRFEMKnpgHaEE?rs=1&pid=ImgDetMain" group-title="CINE",PREM HD: UNIVERSAL REALITY
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/163904
-#EXTINF:-1  tvg-name="PREM HD: WARNER" tvg-id="" tvg-logo="https://i1.sndcdn.com/artworks-000161126025-knqfla-t500x500.jpg" group-title="CINE",PREM HD: WARNER
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182126
-#EXTINF:-1  tvg-name="PREM HD: WARNER 2" tvg-id="" tvg-logo="https://i1.sndcdn.com/artworks-000161126025-knqfla-t500x500.jpg" group-title="CINE",PREM HD: WARNER 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/182098
-#EXTINF:-1  tvg-name="A&E" tvg-id="" tvg-logo="https://seeklogo.com/images/A/a-e-logo-E07B71CB75-seeklogo.com.gif" group-title="ENTRETENCIÓN Y CULTURA",A&E
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73052
-#EXTINF:-1  tvg-name="COMEDY CENTRAL" tvg-id="" tvg-logo="https://th.bing.com/th/id/R.d97d17420a7e0624bff82f00d1c5af74?rik=J1cmx6z9XObm7A&riu=http%3a%2f%2f247tvstream.com%2fimages%2fchannels%2fComedy_Central.png&ehk=oPGLYHTwwrh2z%2fL60UhHQ5ArU7tZ%2fOGXBeQmdDacnzw%3d&risl=&pid=ImgRaw&r=0" group-title="ENTRETENCIÓN Y CULTURA",COMEDY CENTRAL
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73056
-#EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-id="" tvg-logo="https://th.bing.com/th/id/R.c64b4ba462c1d0700b3f1aacbc029b29?rik=t5jy0MT4bZsnwQ&riu=http%3a%2f%2fimages4.fanpop.com%2fimage%2fphotos%2f14800000%2flogo-the-science-channel-14850085-200-200.jpg&ehk=2GTlp1w1BQMnnOoTF8RfxA5UJn8%2ffOnOWmUffR99qVo%3d&risl=&pid=ImgRaw&r=0" group-title="ENTRETENCIÓN Y CULTURA",DISCOVERY CHANNEL
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73083
-#EXTINF:-1  tvg-name="DISCOVERY SCIENCE" tvg-id="" tvg-logo="https://turontelecom.uz/uploads/tariffs/tv/TvChannel/a0a4e736-c708-42da-ac1d-f4b9209f3623.png" group-title="ENTRETENCIÓN Y CULTURA",DISCOVERY SCIENCE
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73086
-#EXTINF:-1  tvg-name="DISCOVERY TURBO" tvg-id="" tvg-logo="https://i.imgur.com/V5cYjmY.png" group-title="ENTRETENCIÓN Y CULTURA",DISCOVERY TURBO
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73088
-#EXTINF:-1  tvg-name="DISCOVERY WORLD" tvg-id="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/discovery-world-logo.png" group-title="ENTRETENCIÓN Y CULTURA",DISCOVERY WORLD
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73101
-#EXTINF:-1  tvg-name="DISTRITO COMEDIA" tvg-id="" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/97ffb33/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=https:%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F71%2Fb5%2Fb93e57c9437a97e58145775a548b%2Fgenerico-placeholder-distrito-comedia.png" group-title="ENTRETENCIÓN Y CULTURA",DISTRITO COMEDIA
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73058
-#EXTINF:-1  tvg-name="FX" tvg-id="" tvg-logo="https://www.themarysue.com/wp-content/uploads/2016/08/FX-Logo.jpg" group-title="ENTRETENCIÓN Y CULTURA",FX
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73061
-#EXTINF:-1  tvg-name="HISTORY" tvg-id="" tvg-logo="https://www.mundook.com.br/wp-content/uploads/2019/08/History-Channel.jpg" group-title="ENTRETENCIÓN Y CULTURA",HISTORY
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73093
-#EXTINF:-1  tvg-name="History 2" tvg-id="" tvg-logo="https://www.guiadetv.com/upload/channel/RNH7bzJtUCJIwIVbwD7d6TAPclK6GGQb3yzCfEcs.png" group-title="ENTRETENCIÓN Y CULTURA",History 2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73102
-#EXTINF:-1  tvg-name="History 2 | op2" tvg-id="" tvg-logo="https://www.guiadetv.com/upload/channel/RNH7bzJtUCJIwIVbwD7d6TAPclK6GGQb3yzCfEcs.png" group-title="ENTRETENCIÓN Y CULTURA",History 2 | op2
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/180055
-#EXTINF:-1  tvg-name="INVESTIGATION DISCOVERY" tvg-id="" tvg-logo="https://www.logotypes101.com/logos/328/5E8DD70BEC5E6336EB89D51B02D86DC2/tn_investigation-discovery-tv-show.png" group-title="ENTRETENCIÓN Y CULTURA",INVESTIGATION DISCOVERY
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73095
-#EXTINF:-1  tvg-name="SONY" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="ENTRETENCIÓN Y CULTURA",SONY
-http://pro.boxdigital.org:8080/cambioking/6a5ahanvtFFAH/73065
+#EXTINF:-1 ,CINE | A&E NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/241996
+#EXTINF:-1 ,CINE | A&E SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/186628
+#EXTINF:-1 ,CINE | AMC FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/186852
+#EXTINF:-1 ,CINE | AMC FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439762
+#EXTINF:-1 ,CINE | AMC SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159149
+#EXTINF:-1 ,CINE | AXN FHD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/241995
+#EXTINF:-1 ,CINE | AXN HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/53047
+#EXTINF:-1 ,CINE | AXN SD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439779
+#EXTINF:-1 ,CINE | Canal DHE FHD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/225716
+#EXTINF:-1 ,CINE | CineCanal FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19475
+#EXTINF:-1 ,CINE | CineCanal FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439760
+#EXTINF:-1 ,CINE | CineCanal HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9494
+#EXTINF:-1 ,CINE | CineCanal SD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159151
+#EXTINF:-1 ,CINE | Cinemax FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/242025
+#EXTINF:-1 ,CINE | Cinemax SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54167
+#EXTINF:-1 ,CINE | Golden Edge
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9349
+#EXTINF:-1 ,CINE | Golden Edge FHD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9505
+#EXTINF:-1 ,CINE | Golden Edge SD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439804
+#EXTINF:-1 ,CINE | Golden Plus @
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/53089
+#EXTINF:-1 ,CINE | Golden Plus HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9496
+#EXTINF:-1 ,CINE | Golden Premier
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/67425
+#EXTINF:-1 ,CINE | Golden Premier 2
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/453359
+#EXTINF:-1 ,CINE | Golden Premier FHD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/222829
+#EXTINF:-1 ,CINE | Golden Premiere 2 NORTE HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/469057
+#EXTINF:-1 ,CINE | Golden Premiere NORTE HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/469058
+#EXTINF:-1 ,CINE | Golden SD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9504
+#EXTINF:-1 ,CINE | Golden SD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/242027
+#EXTINF:-1 ,CINE | HBO 2 FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19579
+#EXTINF:-1 ,CINE | HBO 2 FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439750
+#EXTINF:-1 ,CINE | HBO 2 HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159126
+#EXTINF:-1 ,CINE | HBO 2 SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/286151
+#EXTINF:-1 ,CINE | HBO Family
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439797
+#EXTINF:-1 ,CINE | HBO Family FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/12854
+#EXTINF:-1 ,CINE | HBO Family FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/73200
+#EXTINF:-1 ,CINE | HBO HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/242029
+#EXTINF:-1 ,CINE | HBO Mundi HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19547
+#EXTINF:-1 ,CINE | HBO Mundi SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/158467
+#EXTINF:-1 ,CINE | HBO NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54282
+#EXTINF:-1 ,CINE | HBO Plus
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/73199
+#EXTINF:-1 ,CINE | HBO Plus @
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198755
+#EXTINF:-1 ,CINE | HBO Plus AR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159125
+#EXTINF:-1 ,CINE | HBO Plus HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185172
+#EXTINF:-1 ,CINE | HBO Plus SD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19581
+#EXTINF:-1 ,CINE | HBO Pop
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185169
+#EXTINF:-1 ,CINE | HBO Pop FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19626
+#EXTINF:-1 ,CINE | HBO Pop SD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159124
+#EXTINF:-1 ,CINE | HBO SD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198760
+#EXTINF:-1 ,CINE | HBO SD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439768
+#EXTINF:-1 ,CINE | HBO Signature HD LAT
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/167659
+#EXTINF:-1 ,CINE | HBO Signature SD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19582
+#EXTINF:-1 ,CINE | HBO SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439749
+#EXTINF:-1 ,CINE | HBO Xtreme FHD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185175
+#EXTINF:-1 ,CINE | HBO Xtreme FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19548
+#EXTINF:-1 ,CINE | HBO Xtreme HD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54164
+#EXTINF:-1 ,CINE | HBO Xtreme SD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185170
+#EXTINF:-1 ,CINE | Mega Cine TV
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/558325
+#EXTINF:-1 ,CINE | Morbido TV HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/453507
+#EXTINF:-1 ,CINE | MultiCinema
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/453506
+#EXTINF:-1 ,CINE | Multipremier HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/453505
+#EXTINF:-1 ,CINE | Paramount Channel HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54277
+#EXTINF:-1 ,CINE | Paramount Channel SD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439808
+#EXTINF:-1 ,CINE | Paramount Channel SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/242033
+#EXTINF:-1 ,CINE | Paramount Network FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439787
+#EXTINF:-1 ,CINE | Paramount Network NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19556
+#EXTINF:-1 ,CINE | Sony
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/199523
+#EXTINF:-1 ,CINE | Sony Movies HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/469055
+#EXTINF:-1 ,CINE | Space FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19454
+#EXTINF:-1 ,CINE | Space NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54168
+#EXTINF:-1 ,CINE | Space SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159153
+#EXTINF:-1 ,CINE | STAR Channel FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198736
+#EXTINF:-1 ,CINE | STAR Channel FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439744
+#EXTINF:-1 ,CINE | STAR Channel HD MX Encoder
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198735
+#EXTINF:-1 ,CINE | STAR Channel SD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439809
+#EXTINF:-1 ,CINE | Starz HD latino
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159130
+#EXTINF:-1 ,CINE | Studio Universal FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/241984
+#EXTINF:-1 ,CINE | Studio Universal HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19572
+#EXTINF:-1 ,CINE | Studio Universal SD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/222826
+#EXTINF:-1 ,CINE | SyFy HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54240
+#EXTINF:-1 ,CINE | SyFy SD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19561
+#EXTINF:-1 ,CINE | TBS HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19562
+#EXTINF:-1 ,CINE | TCM
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19563
+#EXTINF:-1 ,CINE | TCM SD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439810
+#EXTINF:-1 ,CINE | TNT LAT FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9495
+#EXTINF:-1 ,CINE | TNT LAT FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439741
+#EXTINF:-1 ,CINE | TNT SD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439765
+#EXTINF:-1 ,CINE | Universal Channel FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439738
+#EXTINF:-1 ,CINE | Universal Cinema FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185152
+#EXTINF:-1 ,CINE | Universal Comedy FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185166
+#EXTINF:-1 ,CINE | Universal Crime FHD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185163
+#EXTINF:-1 ,CINE | Universal Premiere
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/236380
+#EXTINF:-1 ,CINE | Universal Premiere FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439739
+#EXTINF:-1 ,CINE | Universal Premiere FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439785
+#EXTINF:-1 ,CINE | Universal Premiere FHD SUR
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198730
+#EXTINF:-1 ,CINE | Universal Reality FHD NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198741
+#EXTINF:-1 ,CINE | Universal Reality NORTE
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439782
+#EXTINF:-1 ,CINE | Universal TV HD
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/184477
