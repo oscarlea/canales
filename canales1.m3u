@@ -1,193 +1,81 @@
 #EXTM3U
-#EXTINF:-1 ,CINE | A&E NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/241996
-#EXTINF:-1 ,CINE | A&E SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/186628
-#EXTINF:-1 ,CINE | AMC FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/186852
-#EXTINF:-1 ,CINE | AMC FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439762
-#EXTINF:-1 ,CINE | AMC SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159149
-#EXTINF:-1 ,CINE | AXN FHD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/241995
-#EXTINF:-1 ,CINE | AXN HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/53047
-#EXTINF:-1 ,CINE | AXN SD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439779
-#EXTINF:-1 ,CINE | Canal DHE FHD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/225716
-#EXTINF:-1 ,CINE | CineCanal FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19475
-#EXTINF:-1 ,CINE | CineCanal FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439760
-#EXTINF:-1 ,CINE | CineCanal HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9494
-#EXTINF:-1 ,CINE | CineCanal SD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159151
-#EXTINF:-1 ,CINE | Cinemax FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/242025
-#EXTINF:-1 ,CINE | Cinemax SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54167
-#EXTINF:-1 ,CINE | Golden Edge
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9349
-#EXTINF:-1 ,CINE | Golden Edge FHD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9505
-#EXTINF:-1 ,CINE | Golden Edge SD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439804
-#EXTINF:-1 ,CINE | Golden Plus @
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/53089
-#EXTINF:-1 ,CINE | Golden Plus HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9496
-#EXTINF:-1 ,CINE | Golden Premier
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/67425
-#EXTINF:-1 ,CINE | Golden Premier 2
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/453359
-#EXTINF:-1 ,CINE | Golden Premier FHD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/222829
-#EXTINF:-1 ,CINE | Golden Premiere 2 NORTE HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/469057
-#EXTINF:-1 ,CINE | Golden Premiere NORTE HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/469058
-#EXTINF:-1 ,CINE | Golden SD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9504
-#EXTINF:-1 ,CINE | Golden SD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/242027
-#EXTINF:-1 ,CINE | HBO 2 FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19579
-#EXTINF:-1 ,CINE | HBO 2 FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439750
-#EXTINF:-1 ,CINE | HBO 2 HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159126
-#EXTINF:-1 ,CINE | HBO 2 SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/286151
-#EXTINF:-1 ,CINE | HBO Family
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439797
-#EXTINF:-1 ,CINE | HBO Family FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/12854
-#EXTINF:-1 ,CINE | HBO Family FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/73200
-#EXTINF:-1 ,CINE | HBO HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/242029
-#EXTINF:-1 ,CINE | HBO Mundi HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19547
-#EXTINF:-1 ,CINE | HBO Mundi SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/158467
-#EXTINF:-1 ,CINE | HBO NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54282
-#EXTINF:-1 ,CINE | HBO Plus
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/73199
-#EXTINF:-1 ,CINE | HBO Plus @
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198755
-#EXTINF:-1 ,CINE | HBO Plus AR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159125
-#EXTINF:-1 ,CINE | HBO Plus HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185172
-#EXTINF:-1 ,CINE | HBO Plus SD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19581
-#EXTINF:-1 ,CINE | HBO Pop
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185169
-#EXTINF:-1 ,CINE | HBO Pop FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19626
-#EXTINF:-1 ,CINE | HBO Pop SD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159124
-#EXTINF:-1 ,CINE | HBO SD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198760
-#EXTINF:-1 ,CINE | HBO SD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439768
-#EXTINF:-1 ,CINE | HBO Signature HD LAT
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/167659
-#EXTINF:-1 ,CINE | HBO Signature SD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19582
-#EXTINF:-1 ,CINE | HBO SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439749
-#EXTINF:-1 ,CINE | HBO Xtreme FHD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185175
-#EXTINF:-1 ,CINE | HBO Xtreme FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19548
-#EXTINF:-1 ,CINE | HBO Xtreme HD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54164
-#EXTINF:-1 ,CINE | HBO Xtreme SD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185170
-#EXTINF:-1 ,CINE | Mega Cine TV
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/558325
-#EXTINF:-1 ,CINE | Morbido TV HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/453507
-#EXTINF:-1 ,CINE | MultiCinema
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/453506
-#EXTINF:-1 ,CINE | Multipremier HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/453505
-#EXTINF:-1 ,CINE | Paramount Channel HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54277
-#EXTINF:-1 ,CINE | Paramount Channel SD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439808
-#EXTINF:-1 ,CINE | Paramount Channel SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/242033
-#EXTINF:-1 ,CINE | Paramount Network FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439787
-#EXTINF:-1 ,CINE | Paramount Network NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19556
-#EXTINF:-1 ,CINE | Sony
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/199523
-#EXTINF:-1 ,CINE | Sony Movies HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/469055
-#EXTINF:-1 ,CINE | Space FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19454
-#EXTINF:-1 ,CINE | Space NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54168
-#EXTINF:-1 ,CINE | Space SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159153
-#EXTINF:-1 ,CINE | STAR Channel FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198736
-#EXTINF:-1 ,CINE | STAR Channel FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439744
-#EXTINF:-1 ,CINE | STAR Channel HD MX Encoder
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198735
-#EXTINF:-1 ,CINE | STAR Channel SD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439809
-#EXTINF:-1 ,CINE | Starz HD latino
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/159130
-#EXTINF:-1 ,CINE | Studio Universal FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/241984
-#EXTINF:-1 ,CINE | Studio Universal HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19572
-#EXTINF:-1 ,CINE | Studio Universal SD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/222826
-#EXTINF:-1 ,CINE | SyFy HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54240
-#EXTINF:-1 ,CINE | SyFy SD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19561
-#EXTINF:-1 ,CINE | TBS HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19562
-#EXTINF:-1 ,CINE | TCM
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19563
-#EXTINF:-1 ,CINE | TCM SD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439810
-#EXTINF:-1 ,CINE | TNT LAT FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9495
-#EXTINF:-1 ,CINE | TNT LAT FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439741
-#EXTINF:-1 ,CINE | TNT SD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439765
-#EXTINF:-1 ,CINE | Universal Channel FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439738
-#EXTINF:-1 ,CINE | Universal Cinema FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185152
-#EXTINF:-1 ,CINE | Universal Comedy FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185166
-#EXTINF:-1 ,CINE | Universal Crime FHD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/185163
-#EXTINF:-1 ,CINE | Universal Premiere
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/236380
-#EXTINF:-1 ,CINE | Universal Premiere FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439739
-#EXTINF:-1 ,CINE | Universal Premiere FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439785
-#EXTINF:-1 ,CINE | Universal Premiere FHD SUR
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198730
-#EXTINF:-1 ,CINE | Universal Reality FHD NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/198741
-#EXTINF:-1 ,CINE | Universal Reality NORTE
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/439782
-#EXTINF:-1 ,CINE | Universal TV HD
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/184477
+#EXTINF:-1,A&E HD-IK1605-OK
+http://191.52.214.5:8000/play/a01s/index.m3u8
+#EXTINF:-1,AMC HD-IK1633-OK
+http://191.52.214.5:8000/play/a02x/index.m3u8
+#EXTINF:-1,ATRES SERIES HD-IK1616-OK
+http://191.52.214.5:8000/play/a029/index.m3u8
+#EXTINF:-1,AXN HD-IK1617-OK
+http://191.52.214.5:8000/play/a01v/index.m3u8
+#EXTINF:-1,Animal Planet HD-IK1601-OK
+http://191.52.214.5:8000/play/a038/index.m3u8
+#EXTINF:-1,CHV HD-IK1664-OK
+http://191.52.214.5:8000/play/a06p/index.m3u8
+#EXTINF:-1,Cartoon Network HD-IK1610-OK
+http://191.52.214.5:8000/play/a031/index.m3u8
+#EXTINF:-1,Cinemax HD-IK1627-OK
+http://191.52.214.5:8000/play/a02a/index.m3u8
+#EXTINF:-1,Comedy Central HD-IK1649-OK
+http://191.52.214.5:8000/play/a02b/index.m3u8
+#EXTINF:-1,DW - 1651
+http://191.52.214.5:8000/play/a06f/index.m3u8
+#EXTINF:-1,Discovery H&H HD-IK1602-OK
+http://191.52.214.5:8000/play/a02i/index.m3u8
+#EXTINF:-1,Discovery Kids HD-IK1608-OK
+http://191.52.214.5:8000/play/a02h/index.m3u8
+#EXTINF:-1,Discovery Theater HD-IK1609-OK
+http://191.52.214.5:8000/play/a02j/index.m3u8
+#EXTINF:-1,E! HD-IK1615-OK
+http://191.52.214.5:8000/play/a03f/index.m3u8
+#EXTINF:-1,ESPN 2 HD-IK1623-OK
+http://191.52.214.5:8000/play/a027/index.m3u8
+#EXTINF:-1,ESPN 3 HD-IK1652 ok
+http://191.52.214.5:8000/play/a025/index.m3u8
+#EXTINF:-1,ESPN HD-IK1622-OK
+http://191.52.214.5:8000/play/a02s/index.m3u8
+#EXTINF:-1,EWTN
+http://191.52.214.5:8000/play/a06g/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD-IK1621-OK
+http://191.52.214.5:8000/play/a02o/index.m3u8
+#EXTINF:-1,FX HD-IKS-1625-OK
+http://191.52.214.5:8000/play/a02r/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD-IK1620-OK
+http://191.52.214.5:8000/play/a03u/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD-IK1653
+http://191.52.214.5:8000/play/a026/index.m3u8
+#EXTINF:-1,GOLPERU HD-IK1624-OK
+http://191.52.214.5:8000/play/a03m/index.m3u8
+#EXTINF:-1,Golden HD-IK1662-OK
+http://191.52.214.5:8000/play/a03b/index.m3u8
+#EXTINF:-1,HBO 2 HD-IK1661-OK
+http://191.52.214.5:8000/play/a06o/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://191.52.214.5:8000/play/a06q/index.m3u8
+#EXTINF:-1,HBO HD-IK1663
+http://191.52.214.5:8000/play/a02z/index.m3u8
+#EXTINF:-1,HBO XTREME HD-IK1632-OK
+http://191.52.214.5:8000/play/a03x/index.m3u8
+#EXTINF:-1,History Channel HD-IK1604-OK
+http://191.52.214.5:8000/play/a01r/index.m3u8
+#EXTINF:-1,Las Estrellas HD-IK1612-OK
+http://191.52.214.5:8000/play/a03r/index.m3u8
+#EXTINF:-1,MiMusica HD K-POP
+http://191.52.214.5:8000/play/a06d/index.m3u8
+#EXTINF:-1,MiMusica HD Reggaeton
+http://191.52.214.5:8000/play/a06c/index.m3u8
+#EXTINF:-1,MiMusica HD Salsa
+http://191.52.214.5:8000/play/a06b/index.m3u8
+#EXTINF:-1,Nat Geo HD-IK1606-OK
+http://191.52.214.5:8000/play/a02u/index.m3u8
+#EXTINF:-1,Paramount HD-IK1619-OK
+http://191.52.214.5:8000/play/a032/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD-IK1629-OK
+http://191.52.214.5:8000/play/a02k/index.m3u8
+#EXTINF:-1,Space HD-IK1626-OK
+http://191.52.214.5:8000/play/a01w/index.m3u8
+#EXTINF:-1,TNT HD-IK1608
+http://191.52.214.5:8000/play/a024/index.m3u8
+#EXTINF:-1,TNT Series HD-IK1618-OK
+http://191.52.214.5:8000/play/a059/index.m3u8
+#EXTINF:-1,Warner Channel HD-IK1631-HD
+http://191.52.214.5:8000/play/a01u/index.m3u8
