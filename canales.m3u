@@ -1,313 +1,45 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="" tvg-logo="https://oscarlea.github.io/canales/tvg-logo/cl_discovery-id_m.png" group-title="3 - INVESTIGA",INVESTIGATION DISCOVERY
 http://190.60.33.245:4002/play/a0sh/index.m3u8
-#EXTINF:-1  tvg-name="✰ AXN HD  ✰✰✰      " tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0e/ad/37/0ead3717-1324-ddd6-cb73-9e6f27e7294a/source/512x512bb.jpg?w=150" group-title="LATINO PREMIUM",✰ AXN HD  ✰✰✰
-http://158.69.52.98:25461/JULIA/ARAUJO/3033
-#EXTINF:-1  tvg-name="✰ CINEMAX HD  ✰✰✰       " tvg-id="" tvg-logo="http://nino4play.com:25461/images/467773e6d8d2c0a2c7cde2c10bf48dfe.png" group-title="LATINO PREMIUM",✰ CINEMAX HD  ✰✰✰
-http://158.69.52.98:25461/JULIA/ARAUJO/116
-#EXTINF:-1  tvg-name="✰ HBO PREMIUM FHD    ✰✰✰" tvg-id="" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_latino_small.gif" group-title="LATINO PREMIUM",✰ HBO PREMIUM FHD    ✰✰✰
-http://158.69.52.98:25461/JULIA/ARAUJO/365
-#EXTINF:-1  tvg-name="✰ HBO XTREME FHD  ✰✰✰" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0CMoLZ8gSKibhvNU1GM1M2-Ullpg6BG08AbufXkd3J4izwK4zjOAghqvU-DhSnhrTfY&usqp=CAU" group-title="LATINO PREMIUM",✰ HBO XTREME FHD  ✰✰✰
-http://158.69.52.98:25461/JULIA/ARAUJO/3186
-#EXTINF:-1  tvg-name="✰ SPACE FHD D.AUDIO ✰✰✰        " tvg-id="" tvg-logo="https://yt3.googleusercontent.com/9LlvPt4szF_rJdUQ1FbuZQjErDe07gDb2ls6dhHOFd20jf8_Wt_KAU8CE4Qcej3UqTpS4xXHGg=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO PREMIUM",✰ SPACE FHD D.AUDIO ✰✰✰
-http://158.69.52.98:25461/JULIA/ARAUJO/6298
-#EXTINF:-1  tvg-name="✰ SPACE FHD D.AUDIO ✰✰✰ ...." tvg-id="" tvg-logo="http://nino4play.com:25461/images/dc77fb2244bdc151db6a4c50e5980986.jpg" group-title="LATINO PREMIUM",✰ SPACE FHD D.AUDIO ✰✰✰ ....
-http://158.69.52.98:25461/JULIA/ARAUJO/122
-#EXTINF:-1  tvg-name="A&E HD DUAL AUDIO  " tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/1876/brand.gif?itok=mTGdw22i" group-title="LATINO PREMIUM",A&E HD DUAL AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/1575
-#EXTINF:-1  tvg-name="A&E HD " tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest/scale-to-width-down/200?cb=20191216020018&path-prefix=es" group-title="LATINO PREMIUM",A&E HD
-http://158.69.52.98:25461/JULIA/ARAUJO/112
-#EXTINF:-1  tvg-name="AMC FHD " tvg-id="" tvg-logo="http://nino4play.com:25461/images/39878ec0352f0e423ee5423553599627.png" group-title="LATINO PREMIUM",AMC FHD
-http://158.69.52.98:25461/JULIA/ARAUJO/13992
-#EXTINF:-1  tvg-name="AMC HD D.AUDIO ( MEXICO )" tvg-id="" tvg-logo="http://nino4play.com:25461/images/ea628af489b5a82f0c7b297d12443e3a.png" group-title="LATINO PREMIUM",AMC HD D.AUDIO ( MEXICO )
-http://158.69.52.98:25461/JULIA/ARAUJO/113
-#EXTINF:-1  tvg-name="AXN HD  D.AUDIO" tvg-id="" tvg-logo="http://nino4play.com:25461/images/7a19fb8ac96203d33c3d81300cccc7c0.png" group-title="LATINO PREMIUM",AXN HD  D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/13765
-#EXTINF:-1  tvg-name="CINECANAL FHD  D.AUDIO" tvg-id="" tvg-logo="http://nino4play.com:25461/images/a659686601c2964ae90e549d26db53b6.png" group-title="LATINO PREMIUM",CINECANAL FHD  D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/13801
-#EXTINF:-1  tvg-name="CINECANAL HD " tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Cinecanal_HD_%282010-2013%29.png/revision/latest/scale-to-width-down/250?cb=20160925225749" group-title="LATINO PREMIUM",CINECANAL HD
-http://158.69.52.98:25461/JULIA/ARAUJO/1057
-#EXTINF:-1  tvg-name="CINEMAX HD D.AUDIO" tvg-id="" tvg-logo="http://nino4play.com:25461/images/84aad054f8abdd7b063f5df79c7a3050.png" group-title="LATINO PREMIUM",CINEMAX HD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/6092
-#EXTINF:-1  tvg-name="DHE HD" tvg-id="" tvg-logo="http://nino4play.com:25461/images/023370239f0896281f3cb31c674cebd8.jpg" group-title="LATINO PREMIUM",DHE HD
-http://158.69.52.98:25461/JULIA/ARAUJO/14162
-#EXTINF:-1  tvg-name="FX FHD" tvg-id="" tvg-logo="http://nino4play.com:25461/images/f69ac65dc8ecdad7bc0526e36edc32f9.jpg" group-title="LATINO PREMIUM",FX FHD
-http://158.69.52.98:25461/JULIA/ARAUJO/14040
-#EXTINF:-1  tvg-name="GOLDEN FHD" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="LATINO PREMIUM",GOLDEN FHD
-http://158.69.52.98:25461/JULIA/ARAUJO/14410
-#EXTINF:-1  tvg-name="GOLDEN PLUS HD " tvg-id="" tvg-logo="http://nino4play.com:25461/images/3fbd451a9d9e0e4217d724198c237fb5.png" group-title="LATINO PREMIUM",GOLDEN PLUS HD
-http://158.69.52.98:25461/JULIA/ARAUJO/118
-#EXTINF:-1  tvg-name="GOLDEN PREMIER HD " tvg-id="" tvg-logo="http://nino4play.com:25461/images/2d2990ffd1d5ce8ab6a7d0145584684f.jpg" group-title="LATINO PREMIUM",GOLDEN PREMIER HD
-http://158.69.52.98:25461/JULIA/ARAUJO/119
-#EXTINF:-1  tvg-name="GOLDEN PREMIER 2 HD" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdXPhLd3JdNd5d3ykMz5VqvkFbh0S_01a83CMVQ4TJbP1wHVOfB3yvaF1z41H1iuAs16E&usqp=CAU" group-title="LATINO PREMIUM",GOLDEN PREMIER 2 HD
-http://158.69.52.98:25461/JULIA/ARAUJO/14163
-#EXTINF:-1  tvg-name="PARAMOUNT FHD D.AUDIO   " tvg-id="" tvg-logo="http://nino4play.com:25461/images/cff6dc89809d1c5796232dbb0f087d47.jpg" group-title="LATINO PREMIUM",PARAMOUNT FHD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/6094
-#EXTINF:-1  tvg-name="SONY HD D.AUDIO" tvg-id="" tvg-logo="http://nino4play.com:25461/images/9ae2767f15b15da469c307585dd350c0.png" group-title="LATINO PREMIUM",SONY HD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/121
-#EXTINF:-1  tvg-name="STAR CHANNEL FHD" tvg-id="" tvg-logo="http://nino4play.com:25461/images/51591d958f0587956c871c0ebc945373.jpg" group-title="LATINO PREMIUM",STAR CHANNEL FHD
-http://158.69.52.98:25461/JULIA/ARAUJO/14041
-#EXTINF:-1  tvg-name="STAR CHANNEL FHD D.AUDIO" tvg-id="" tvg-logo="http://nino4play.com:25461/images/13cccb20ed2f648be8afff6fb794967f.png" group-title="LATINO PREMIUM",STAR CHANNEL FHD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/117
-#EXTINF:-1  tvg-name="STUDIO UNIVERSAL HD D.AUDIO " tvg-id="" tvg-logo="http://nino4play.com:25461/images/af679e90e6c701339683650f9b002be1.png" group-title="LATINO PREMIUM",STUDIO UNIVERSAL HD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/1925
-#EXTINF:-1  tvg-name="TNT FHD ( ESPAÑOL )" tvg-id="" tvg-logo="http://nino4play.com:25461/images/45f4132e819f526bce58a18a8f58fda3.png" group-title="LATINO PREMIUM",TNT FHD ( ESPAÑOL )
-http://158.69.52.98:25461/JULIA/ARAUJO/123
-#EXTINF:-1  tvg-name="TNT FHD ( INGLES & ESPAÑOL )" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHawtxQ2vdNJgnX3AehD0t6C9QX-dvGvRTxLBJi-2RDQGqGjQGeZiVtz-EpQ4w2lANZDE&usqp=CAU" group-title="LATINO PREMIUM",TNT FHD ( INGLES & ESPAÑOL )
-http://158.69.52.98:25461/JULIA/ARAUJO/14101
-#EXTINF:-1  tvg-name="TNT SERIES HD D.AUDIO " tvg-id="" tvg-logo="http://nino4play.com:25461/images/2ef2e1ecdb638722654e5abb384dfb3e.png" group-title="LATINO PREMIUM",TNT SERIES HD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/1679
-#EXTINF:-1  tvg-name="WARNER FHD D.AUDIO" tvg-id="" tvg-logo="http://nino4play.com:25461/images/3232f4d014a4fee57ee8e4b4e73f72c8.png" group-title="LATINO PREMIUM",WARNER FHD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/14046
-#EXTINF:-1  tvg-name="HBO FHD D.AUDIO" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/ELLR6rcIP_mr6pB4kX9QhBKF-najkWHfb8RqceX4CBsyel3o_W9DoGas7WfPgfiIsQ" group-title="LATINO PREMIUM",HBO FHD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/14148
-#EXTINF:-1  tvg-name="HBO 2 FHD D.AUDIO" tvg-id="" tvg-logo="http://nino4play.com:25461/images/5549d156cd63bc6537608380b747f948.png" group-title="LATINO PREMIUM",HBO 2 FHD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/132
-#EXTINF:-1  tvg-name="HBO FAMILY HD D.AUDIO   " tvg-id="" tvg-logo="http://nino4play.com:25461/images/c63f52bb327351cfe58cfc09a94a9004.png" group-title="LATINO PREMIUM",HBO FAMILY HD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/133
-#EXTINF:-1  tvg-name="HBO PLUS HD D.AUDIO   " tvg-id="" tvg-logo="http://nino4play.com:25461/images/a50152f8b97487a6bf0a8a9994b69b5f.png" group-title="LATINO PREMIUM",HBO PLUS HD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/134
-#EXTINF:-1  tvg-name="HBO SIGNATURE HD   " tvg-id="" tvg-logo="http://nino4play.com:25461/images/0878448a83b78d1ade566ea7a076faa2.png" group-title="LATINO PREMIUM",HBO SIGNATURE HD
-http://158.69.52.98:25461/JULIA/ARAUJO/1677
-#EXTINF:-1  tvg-name="UNIVERSAL CINEMA FHD  D.AUDIO   " tvg-id="" tvg-logo="http://nino4play.com:25461/images/e2fafc632f041229fcf743dd6d495f17.jpg" group-title="LATINO PREMIUM",UNIVERSAL CINEMA FHD  D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/125
-#EXTINF:-1  tvg-name="UNIVERSAL CINEMA HD  D.AUDIO   " tvg-id="" tvg-logo="http://nino4play.com:25461/images/3f6231245d0a0fb0fed78f2089408921.jpg" group-title="LATINO PREMIUM",UNIVERSAL CINEMA HD  D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/13973
-#EXTINF:-1  tvg-name="UNIVERSAL COMEDY FHD   " tvg-id="" tvg-logo="https://yt3.ggpht.com/_xmrueXlQyPmO379bSt2BjirLWXxNOUoQn1jV0DpOlxxeCGlx9Z2L9HxfoWMgdsdIyGFh17W1A=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO PREMIUM",UNIVERSAL COMEDY FHD
-http://158.69.52.98:25461/JULIA/ARAUJO/13857
-#EXTINF:-1  tvg-name="UNIVERSAL COMEDY HD  D.AUDIO" tvg-id="" tvg-logo="http://nino4play.com:25461/images/3c2009bbd14d61e8be44d3ae5dd6cbe2.png" group-title="LATINO PREMIUM",UNIVERSAL COMEDY HD  D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/366
-#EXTINF:-1  tvg-name="UNIVERSAL CRIME FHD D.AUDIO" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/jIu3w4pPl2skCg7d36XdiwTF_NFNnlSITS4ZzYbnv6v0J8kwP_O4OgHAIo2MJj0MiQ" group-title="LATINO PREMIUM",UNIVERSAL CRIME FHD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/14166
-#EXTINF:-1  tvg-name="UNIVERSAL CRIME HD D.AUDIO   " tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79tqDVnF2OZt_8yyetO1XbR7fvv88K6cOfHr3WIUevnvLNuol6B6wUoj78yaFZwPKe5Y&usqp=CAU" group-title="LATINO PREMIUM",UNIVERSAL CRIME HD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/124
-#EXTINF:-1  tvg-name="UNIVERSAL PREMIER FHD D.AUDIO" tvg-id="" tvg-logo="http://nino4play.com:25461/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="LATINO PREMIUM",UNIVERSAL PREMIER FHD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/13856
-#EXTINF:-1  tvg-name="UNIVERSAL PREMIER O HD D.AUDIO" tvg-id="" tvg-logo="http://nino4play.com:25461/images/3c2009bbd14d61e8be44d3ae5dd6cbe2.png" group-title="LATINO PREMIUM",UNIVERSAL PREMIER O HD D.AUDIO
-http://158.69.52.98:25461/JULIA/ARAUJO/128
-#EXTINF:-1  tvg-name="ALITA  ( 2019 ) D.AUDIO ✰✰✰✰✰✰✰✰✰✰✰✰" tvg-id="" tvg-logo="https://i2.wp.com/todayshaul.net/wp-content/uploads/2019/05/Alita.jpg?fit=973%2C1199" group-title="C. FICCION",ALITA  ( 2019 ) D.AUDIO ✰✰✰✰✰✰✰✰✰✰✰✰
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/295.mkv
-#EXTINF:-1  tvg-name="AQUAMAN  ( 2018 ) D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/403120c9711463e951ecb75428e1de14.jpg" group-title="C. FICCION",AQUAMAN  ( 2018 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2923.mkv
-#EXTINF:-1  tvg-name="ASSASSIN'S CREED  ( 2016 ) D.AUDIO" tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91WEEoKGpaL._SL1500_.jpg" group-title="C. FICCION",ASSASSIN'S CREED  ( 2016 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/3175.mkv
-#EXTINF:-1  tvg-name="CAPITANA MARVEL ( 2019 )  D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/467cd27677185de656d06eef4bfdf78b.jpg" group-title="C. FICCION",CAPITANA MARVEL ( 2019 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/298.mkv
-#EXTINF:-1  tvg-name="BUMBLEBEE  ( 2018 ) D.AUDIO " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/27979d8ef0d67d6e2ab9050af8a91299.jpg" group-title="C. FICCION",BUMBLEBEE  ( 2018 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2897.mkv
-#EXTINF:-1  tvg-name="CHAPPIE  ( 2015 ) D.AUDIO  " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/1554ab724f2387bbda49d5eb9be8a133.jpg" group-title="C. FICCION",CHAPPIE  ( 2015 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/458.mkv
-#EXTINF:-1  tvg-name="DOCTOR STRANGE  ( 2016 ) D.AUDIO " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/6f7e3e7cc1810f7700a567ba9eb0bcfa.jpg" group-title="C. FICCION",DOCTOR STRANGE  ( 2016 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/459.mkv
-#EXTINF:-1  tvg-name="GIGANTES DE ACERO  ( 2011 ) D.AUDIO " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/0194c28f6fb6d1b85d4465f8d9505fd3.jpg" group-title="C. FICCION",GIGANTES DE ACERO  ( 2011 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2664.mkv
-#EXTINF:-1  tvg-name="HELLBOY  ( 2019 ) D.AUDIO" tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NQel%2BNOyL._AC_SL1500_.jpg" group-title="C. FICCION",HELLBOY  ( 2019 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/330.mkv
-#EXTINF:-1  tvg-name="JUDGE DREDD  ( 1995 )  D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/afed3ad6e884059ec4fcecaa9d9e40cc.jpeg" group-title="C. FICCION",JUDGE DREDD  ( 1995 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2650.mkv
-#EXTINF:-1  tvg-name="LOGAN  ( 2017 )  D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/b6aed1bc4f41856862f606d2fb4254d1.jpg" group-title="C. FICCION",LOGAN  ( 2017 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2655.mkv
-#EXTINF:-1  tvg-name="THE ROCKEETEER el hombre cohete ( 1991 ) D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/ef46f00b30ff91fb60ff672c8de6285a.jpg" group-title="C. FICCION",THE ROCKEETEER el hombre cohete ( 1991 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/3005.mkv
-#EXTINF:-1  tvg-name="PANTERA NEGRA ( 2018 )  D.AUDIO" tvg-id="" tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6198/6198916_so.jpg" group-title="C. FICCION",PANTERA NEGRA ( 2018 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/438.mkv
-#EXTINF:-1  tvg-name="SHAZAM  ( 2019 ) D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/e28ac8511e706b315c866f03c0e19c81.jpg" group-title="C. FICCION",SHAZAM  ( 2019 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2922.mkv
-#EXTINF:-1  tvg-name="TITANES DEL PACIFICO ( 2013 ) D.AUDIO " tvg-id="" tvg-logo="https://i.imgur.com/YPkslSs.jpg" group-title="C. FICCION",TITANES DEL PACIFICO ( 2013 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/7312.mkv
-#EXTINF:-1  tvg-name="VENOM ( 2018 )  D.AUDIO " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/c3f9fecf80cac8eddbb161700edacb3f.jpg" group-title="C. FICCION",VENOM ( 2018 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/3174.mkv
-#EXTINF:-1  tvg-name="WARCRAFT ( 2016 ) D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/e6c5c75d6e16055ea9ffe99bad953e16.jpg" group-title="C. FICCION",WARCRAFT ( 2016 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2665.mkv
-#EXTINF:-1  tvg-name="2012  ( 2009 ) D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/ee07789d79507713b617b100d266535e.jpg" group-title="C. FICCION",2012  ( 2009 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/432.mkv
-#EXTINF:-1  tvg-name="AD ASTRA HACIA LAS ESTTRELLAS  ( 2019 ) D.AUDIO " tvg-id="" tvg-logo="https://d25-a.sdn.cz/d_25/c_img_F_Ib/NeTCAVk.jpeg" group-title="C. FICCION",AD ASTRA HACIA LAS ESTTRELLAS  ( 2019 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/840.mkv
-#EXTINF:-1  tvg-name="AL FILO DEL MANANA  ( 2014 )  D.AUDIO " tvg-id="" tvg-logo="https://www.hidefninja.com/community/attachments/edge-jpg.100121/" group-title="C. FICCION",AL FILO DEL MANANA  ( 2014 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/433.mkv
-#EXTINF:-1  tvg-name="ANNIHILATION  ( 2018 )  D.AUDIO " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/ca6f0f79c39748d72f76eaa933690387.jpg" group-title="C. FICCION",ANNIHILATION  ( 2018 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/434.mkv
-#EXTINF:-1  tvg-name="BATALLA NAVAL  ( 2012 )  D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/dc9b2a39bda3f0a3b166cbb88443326e.jpg" group-title="C. FICCION",BATALLA NAVAL  ( 2012 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/437.mkv
-#EXTINF:-1  tvg-name="BLOODSHOT  ( 2020 ) D.AUDIO" tvg-id="" tvg-logo="https://cdn3.volusion.com/sobge.mzrea/v/vspfiles/photos/HNEJST21606-2.jpg?v-cache=1588530987" group-title="C. FICCION",BLOODSHOT  ( 2020 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2669.mkv
-#EXTINF:-1  tvg-name="CODIGO 8 RENEGADOS ( 2019 ) D.AUDIO " tvg-id="" tvg-logo="https://i2.wp.com/nobadmovie.com/wp-content/uploads/2020/02/code8_br.jpg?resize=815%2C1024&ssl=1" group-title="C. FICCION",CODIGO 8 RENEGADOS ( 2019 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/1362.mkv
-#EXTINF:-1  tvg-name="CONSTANTINE  ( 2005 ) D.AUDIO" tvg-id="" tvg-logo="https://d3rwyinxzcqr6y.cloudfront.net/Assets/43/580/L_p0083858043.jpg" group-title="C. FICCION",CONSTANTINE  ( 2005 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/7315.mkv
-#EXTINF:-1  tvg-name="GUERRA MUNDIAL Z ( 2013 )  D.AUDIO " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/420625b04278abbcac7a7238780e108b.jpeg" group-title="C. FICCION",GUERRA MUNDIAL Z ( 2013 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/468.mkv
-#EXTINF:-1  tvg-name="DOOM  ( 2005 )  D.AUDIO " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/0f15ac04fbdd35edfe7f124a47125085.jpg" group-title="C. FICCION",DOOM  ( 2005 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/460.mkv
-#EXTINF:-1  tvg-name="EL ABISMO ( 1989 ) D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/6f25e323d21976f6926095486c03798a.jpg" group-title="C. FICCION",EL ABISMO ( 1989 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/3173.mkv
-#EXTINF:-1  tvg-name="EL CAZADOR Y LA REINA DE HIELO ( 2017 ) D.AUDIO" tvg-id="" tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5202/5202002_so.jpg" group-title="C. FICCION",EL CAZADOR Y LA REINA DE HIELO ( 2017 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/461.mkv
-#EXTINF:-1  tvg-name="EL HOMBRE SIN SOMBRA  ( 2000 ) D.AUDIO  " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/9db5df472b3298634127e13e4f701834.jpg" group-title="C. FICCION",EL HOMBRE SIN SOMBRA  ( 2000 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/462.mkv
-#EXTINF:-1  tvg-name="EL PRECIO DEL MANANA ( 2011 ) SOLO ESP  " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/b3bae884b15024e64be4275d6be50555.jpg" group-title="C. FICCION",EL PRECIO DEL MANANA ( 2011 ) SOLO ESP
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/463.mkv
-#EXTINF:-1  tvg-name="EL QUINTO ELEMENTO ( 1997 ) D.AUDIO" tvg-id="" tvg-logo="http://nino4play.com:25461/images/66cc22978331c8ddbcae7b239500be0c.jpg" group-title="C. FICCION",EL QUINTO ELEMENTO ( 1997 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/6628.mkv
-#EXTINF:-1  tvg-name="EL SEXTO DIA  ( 2000 ) D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/3c2e24d561e7b9caba023a5ba1f3ba60.jpg" group-title="C. FICCION",EL SEXTO DIA  ( 2000 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/464.mkv
-#EXTINF:-1  tvg-name="EL ULTIMO CAZADOR DE BRUJAS ( 2015 )  D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/981cdf0144941345bcf610a3dc1b6026.jpg" group-title="C. FICCION",EL ULTIMO CAZADOR DE BRUJAS ( 2015 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/465.mkv
-#EXTINF:-1  tvg-name="ET EL EXTRATERRESTRE  ( 1982 ) D.AUDIO " tvg-id="" tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5984/5984531_so.jpg" group-title="C. FICCION",ET EL EXTRATERRESTRE  ( 1982 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2663.mkv
-#EXTINF:-1  tvg-name="GEO-TORMENTA  ( 2017 ) D.AUDIO " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/cccbc4ea6b37543e8b09f0bfecefd7be.jpg" group-title="C. FICCION",GEO-TORMENTA  ( 2017 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/466.mkv
-#EXTINF:-1  tvg-name="GRAVEDAD  ( 2013 ) 3 AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/829333fbfc862b71c30925b544ccc15e.jpg" group-title="C. FICCION",GRAVEDAD  ( 2013 ) 3 AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/7314.mp4
-#EXTINF:-1  tvg-name="INDEPENDENCE DAY  ( 1996 )   D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/7c19a699315dd42c940bc2e00f7f2bdb.jpg" group-title="C. FICCION",INDEPENDENCE DAY  ( 1996 )   D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/469.mkv
-#EXTINF:-1  tvg-name="KONG LA ISLA CALAVERA  ( 2017 ) D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/e753b9cb3efeef44c33c6ab24eec77a1.jpg" group-title="C. FICCION",KONG LA ISLA CALAVERA  ( 2017 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2651.mkv
-#EXTINF:-1  tvg-name="LA GUERRA DE LOS MUNDOS  ( 2005 ) D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/fae1aa3644fdbdf23b8026973578f1e3.jpg" group-title="C. FICCION",LA GUERRA DE LOS MUNDOS  ( 2005 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2652.mkv
-#EXTINF:-1  tvg-name="LA MAQUINA DEL TIEMPO  ( 2002 ) D. AUDIO " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/31102bd777868707003ea2fab5e17050.jpg" group-title="C. FICCION",LA MAQUINA DEL TIEMPO  ( 2002 ) D. AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2653.mkv
-#EXTINF:-1  tvg-name="LA MOMIA  ( 2017 ) D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/c8fdb25e8ee3197adcd8803be851fb10.jpg" group-title="C. FICCION",LA MOMIA  ( 2017 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2654.mkv
-#EXTINF:-1  tvg-name="LA VIGILANTE DEL FUTURO ( 2017 ) D.AUDIO " tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/A16PbZllENL._AC_SL1500_.jpg" group-title="C. FICCION",LA VIGILANTE DEL FUTURO ( 2017 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/10527.mkv
-#EXTINF:-1  tvg-name="LOS ILUCIONISTAS ( 2013 ) D.AUDIO" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/0a54dfd5343228f9159ae400b05e2c90.jpg" group-title="C. FICCION",LOS ILUCIONISTAS ( 2013 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2656.mkv
-#EXTINF:-1  tvg-name="LUCY  ( 2014 ) D.AUDIO" tvg-id="" tvg-logo="https://4k-hd.club/uploads/posts/2017-11/1512027663_lucy-2014-4k.jpg" group-title="C. FICCION",LUCY  ( 2014 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2657.mkv
-#EXTINF:-1  tvg-name="MAD MAX  ( 2015 ) D.AUDIO " tvg-id="" tvg-logo="https://images.static-bluray.com/movies/covers/147183_front.jpg" group-title="C. FICCION",MAD MAX  ( 2015 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2658.mkv
-#EXTINF:-1  tvg-name="MARTE  ( 2015 ) D.AUDIO " tvg-id="" tvg-logo="http://158.69.52.98:25461/images/654a94dada80ad3f0d9d30aff0c4ecad.jpg" group-title="C. FICCION",MARTE  ( 2015 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2659.mkv
-#EXTINF:-1  tvg-name="MS1 MAXIMA SEGURIDAD  ( 2012 ) D.AUDIO" tvg-id="" tvg-logo="https://coldfeet-space.nyc3.digitaloceanspaces.com/wsb/2012/07/BD-Box-Art-LOCKOUT-830x1024.jpg" group-title="C. FICCION",MS1 MAXIMA SEGURIDAD  ( 2012 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/6629.mkv
-#EXTINF:-1  tvg-name="OBLIVION  ( 2013 )  3 AUDIO  " tvg-id="" tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5493/5493402_sa.jpg" group-title="C. FICCION",OBLIVION  ( 2013 )  3 AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2660.mp4
-#EXTINF:-1  tvg-name="POLICIA DEL TIEMPO  ( 1994 ) D.AUDIO" tvg-id="" tvg-logo="http://ekladata.com/g8-W3fhmh5pGtqxu2GNEr7izhPc@613x771.jpg" group-title="C. FICCION",POLICIA DEL TIEMPO  ( 1994 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2661.mkv
-#EXTINF:-1  tvg-name="POWER RANGERS  ( 2017 ) D.AUDIO " tvg-id="" tvg-logo="https://s3.thcdn.com/productimg/960/960/11432486-1414492343540967.jpg" group-title="C. FICCION",POWER RANGERS  ( 2017 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2662.mkv
-#EXTINF:-1  tvg-name="PROMETEO  ( 2012 ) D.AUDIO " tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Icz75nHgL._AC_SL1500_.jpg" group-title="C. FICCION",PROMETEO  ( 2012 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/6630.mkv
-#EXTINF:-1  tvg-name="PROYECTO GEMINIS ( 2019 ) D.AUDIO" tvg-id="" tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6383/6383018_so.jpg" group-title="C. FICCION",PROYECTO GEMINIS ( 2019 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/760.mkv
-#EXTINF:-1  tvg-name="SONIC LA PELICULA ( 2020 ) D.AUDIO  " tvg-id="" tvg-logo="https://cdn3.volusion.com/sobge.mzrea/v/vspfiles/photos/HNEJST24124-2.jpg" group-title="C. FICCION",SONIC LA PELICULA ( 2020 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/2890.mkv
-#EXTINF:-1  tvg-name="STARGATE : PUERTA A LAS ESTRELLAS  ( 1994 )  D.AUDIO  " tvg-id="" tvg-logo="https://img.alicdn.com/imgextra/i2/2539261409/TB24_OTnVXXXXaYXpXXXXXXXXXX_!!2539261409.jpg" group-title="C. FICCION",STARGATE : PUERTA A LAS ESTRELLAS  ( 1994 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/7313.mkv
-#EXTINF:-1  tvg-name="TOTAL RECALL ( 1990 ) D.AUDIO" tvg-id="" tvg-logo="https://images.static-bluray.com/movies/covers/275861_front.jpg?t=1604391529" group-title="C. FICCION",TOTAL RECALL ( 1990 ) D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/3196.mkv
-#EXTINF:-1  tvg-name="VIDA  ( 2017 )  D.AUDIO " tvg-id="" tvg-logo="https://http2.mlstatic.com/lifesop-blu-ray-c16-D_NQ_NP_782552-MLM30096441806_042019-F.jpg" group-title="C. FICCION",VIDA  ( 2017 )  D.AUDIO
-http://158.69.52.98:25461/movie/JULIA/ARAUJO/6631.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S01 E01" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/63e25a4ed5074cb1ce57f493a8b6efe9.jpg" group-title="THE EXPANSE",THE EXPANSE S01 E01
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8507.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S01 E02" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/d6fdd28a9d11083392a324f086d394de.jpg" group-title="THE EXPANSE",THE EXPANSE S01 E02
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8508.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S01 E03" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/4b3560c4c85e6134aa7216b8d4f8e7cd.jpg" group-title="THE EXPANSE",THE EXPANSE S01 E03
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8509.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S01 E04" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/d957aa6762c96fdc58928f25c29c07b6.jpg" group-title="THE EXPANSE",THE EXPANSE S01 E04
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8510.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S01 E05" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/d4942dce6b3ff17b42ccc080dd9f2a5e.jpg" group-title="THE EXPANSE",THE EXPANSE S01 E05
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8511.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S01 E06" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/5d3c34843191c817009853a56cddb784.jpg" group-title="THE EXPANSE",THE EXPANSE S01 E06
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8512.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S01 E07" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/bcc737d8c8f38afe88278f70e619abfb.jpg" group-title="THE EXPANSE",THE EXPANSE S01 E07
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8513.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S01 E08" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/ee2cd532dcaa3b484bb12cb198020cb3.jpg" group-title="THE EXPANSE",THE EXPANSE S01 E08
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8514.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S01 E09" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/61c1ce3cae58e0bc88298441caa9b915.jpg" group-title="THE EXPANSE",THE EXPANSE S01 E09
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8515.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S01 E10" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/099bc1504220fc15dba54a3ddd54ed09.jpg" group-title="THE EXPANSE",THE EXPANSE S01 E10
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8516.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E01" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/38f847f94a21024cb020f9290f1e491c.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E01
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8517.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E02" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/5998608f8413b1015b62690af0685c99.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E02
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8518.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E03" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/b1ff39f3cdc0ae3e5f30e0abf045e54f.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E03
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8519.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E04" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/cb7365c252c465154214e59676d58872.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E04
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8520.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E05" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/8e16d330b37557c1d5e3aef62b3623f8.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E05
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8521.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E06" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/bd09893df089cf25b3808aecbe6f7e30.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E06
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8522.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E07" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/52fe34347afd6b367120086525b1b2fc.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E07
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8523.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E08" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/81531d81eb51a5a5173729905ac4c212.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E08
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8524.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E09" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/b5fd5d69ef216f76d8d5c3f225afcc1e.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E09
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8525.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E10" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/c2ce1622b24d1f24320cadb85f9ef80f.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E10
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8526.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E11" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/ad15c7476e00ffe0448b22615f9139dc.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E11
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8527.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E12" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/9a243abb8c6605b68f7493e48dae0b9e.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E12
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8528.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S02 E13" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/080463887ddfe5bae41c50635c87cfa1.jpg" group-title="THE EXPANSE",THE EXPANSE S02 E13
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8529.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E01" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/87526c3a7d96c93c9f7daa44fff0927f.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E01
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8484.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E02" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/04452dd7f626b12e64154027b349fa07.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E02
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8485.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E03" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/068aaff54b3c3b2f56e053e3362cd465.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E03
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8486.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E04" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/e3d8fc9e7daca2bb984668752932c919.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E04
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8487.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E05" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/faf1a9609c936e164c4459b4644d6899.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E05
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8488.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E06" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/8252ab7399aee48591424f2850497dff.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E06
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8489.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E07" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/47746b2e13f485497ec63693c1588082.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E07
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8490.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E08" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/9b3a4725805fb114c337792714a77806.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E08
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8491.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E09" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/a3f9158d4cb9627ca78ae137165303d0.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E09
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8492.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E10" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/84d505d6df67a90da333dc94ecb9c0a8.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E10
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8493.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E11" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/c13e47d888974020efafdd2abf0ad492.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E11
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8494.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E12" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/1cab69b47552e10f69241141c5c93ede.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E12
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8495.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S03 E13" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/2111722bc98959955b95c9e465dcd000.jpg" group-title="THE EXPANSE",THE EXPANSE S03 E13
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8496.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S04 E01" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/72f21ca6463e3d7bfa9567ad69f0efb3.jpg" group-title="THE EXPANSE",THE EXPANSE S04 E01
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8497.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S04 E02" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/1ff47846aa666db0e98d50185d2b32f6.jpg" group-title="THE EXPANSE",THE EXPANSE S04 E02
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8498.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S04 E03" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/43e6b50abf80cf932003a8b79a653a36.jpg" group-title="THE EXPANSE",THE EXPANSE S04 E03
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8499.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S04 E04" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/9b2bc6d15b1c1828661127cb407a7557.jpg" group-title="THE EXPANSE",THE EXPANSE S04 E04
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8500.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S04 E05" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/20a875bc0e9451da604f06535b5d3af1.jpg" group-title="THE EXPANSE",THE EXPANSE S04 E05
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8501.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S04 E06" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/f248a222e8ff7c66945b7f1b0ee3b48c.jpg" group-title="THE EXPANSE",THE EXPANSE S04 E06
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8502.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S04 E07" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/a5f4f2fb4fcd6caa5fcb8119df681bb4.jpg" group-title="THE EXPANSE",THE EXPANSE S04 E07
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8503.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S04 E08" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/44b6fde91ff2dddc1225bffb4b12f8d0.jpg" group-title="THE EXPANSE",THE EXPANSE S04 E08
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8504.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S04 E09" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/62b83bf56dc3d609912724885f2237d3.jpg" group-title="THE EXPANSE",THE EXPANSE S04 E09
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8505.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S04 E10" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/1c038a90e0b80aac0d422ca04d39f603.jpg" group-title="THE EXPANSE",THE EXPANSE S04 E10
-http://158.69.52.98:25461/series/JULIA/ARAUJO/8506.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S05 E01" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/f04e8e0506b0fc7a65d48b69e6707725.jpg" group-title="THE EXPANSE",THE EXPANSE S05 E01
-http://158.69.52.98:25461/series/JULIA/ARAUJO/9058.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S05 E02" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/b16496c591e42c2febe4a6c0df55ceb3.jpg" group-title="THE EXPANSE",THE EXPANSE S05 E02
-http://158.69.52.98:25461/series/JULIA/ARAUJO/9059.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S05 E03" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/5d772a71a6838a1be97e63f7804f2d44.jpg" group-title="THE EXPANSE",THE EXPANSE S05 E03
-http://158.69.52.98:25461/series/JULIA/ARAUJO/9060.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S05 E04" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/13eafac86d2e744e94c6af97b2952d04.jpg" group-title="THE EXPANSE",THE EXPANSE S05 E04
-http://158.69.52.98:25461/series/JULIA/ARAUJO/9061.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S05 E05" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/5d8e63cb068fca51de2d7d44b367daf5.jpg" group-title="THE EXPANSE",THE EXPANSE S05 E05
-http://158.69.52.98:25461/series/JULIA/ARAUJO/9062.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S05 E06" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/cccd81bee68ebe19c3b2968317c14943.jpg" group-title="THE EXPANSE",THE EXPANSE S05 E06
-http://158.69.52.98:25461/series/JULIA/ARAUJO/9063.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S05 E07" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/f32ad012935970d9a27329b7d3fae432.jpg" group-title="THE EXPANSE",THE EXPANSE S05 E07
-http://158.69.52.98:25461/series/JULIA/ARAUJO/9064.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S05 E08" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/6df99d5a7da1e58b62c2788a26e7f2e8.jpg" group-title="THE EXPANSE",THE EXPANSE S05 E08
-http://158.69.52.98:25461/series/JULIA/ARAUJO/9065.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S05 E09" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/e07e18aa540ec0b49f75f338d2899b05.jpg" group-title="THE EXPANSE",THE EXPANSE S05 E09
-http://158.69.52.98:25461/series/JULIA/ARAUJO/9066.mkv
-#EXTINF:-1  tvg-name="THE EXPANSE S05 E10" tvg-id="" tvg-logo="http://158.69.52.98:25461/images/c5c8502926c157d5960114b0d737314f.jpg" group-title="THE EXPANSE",THE EXPANSE S05 E10
-http://158.69.52.98:25461/series/JULIA/ARAUJO/9067.mkv
+#EXTINF:-1,A&E HD-IK1605-OK
+http://191.52.214.5:8000/play/a01s/index.m3u8
+#EXTINF:-1,AMC HD-IK1633-OK
+http://191.52.214.5:8000/play/a02x/index.m3u8
+#EXTINF:-1,AXN HD-IK1617-OK
+http://191.52.214.5:8000/play/a01v/index.m3u8
+#EXTINF:-1,CHV HD-IK1664-OK
+http://191.52.214.5:8000/play/a06p/index.m3u8
+#EXTINF:-1,Cinemax HD-IK1627-OK
+http://191.52.214.5:8000/play/a02a/index.m3u8
+#EXTINF:-1,Comedy Central HD-IK1649-OK
+http://191.52.214.5:8000/play/a02b/index.m3u8
+#EXTINF:-1,DW - 1651
+http://191.52.214.5:8000/play/a06f/index.m3u8
+#EXTINF:-1,EWTN
+http://191.52.214.5:8000/play/a06g/index.m3u8
+#EXTINF:-1,FX HD-IKS-1625-OK
+http://191.52.214.5:8000/play/a02r/index.m3u8
+#EXTINF:-1,Golden HD-IK1662-OK
+http://191.52.214.5:8000/play/a03b/index.m3u8
+#EXTINF:-1,HBO 2 HD-IK1661-OK
+http://191.52.214.5:8000/play/a06o/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://191.52.214.5:8000/play/a06q/index.m3u8
+#EXTINF:-1,HBO HD-IK1663
+http://191.52.214.5:8000/play/a02z/index.m3u8
+#EXTINF:-1,HBO XTREME HD-IK1632-OK
+http://191.52.214.5:8000/play/a03x/index.m3u8
+#EXTINF:-1,History Channel HD-IK1604-OK
+http://191.52.214.5:8000/play/a01r/index.m3u8
+#EXTINF:-1,Paramount HD-IK1619-OK
+http://191.52.214.5:8000/play/a032/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD-IK1629-OK
+http://191.52.214.5:8000/play/a02k/index.m3u8
+#EXTINF:-1,Space HD-IK1626-OK
+http://191.52.214.5:8000/play/a01w/index.m3u8
+#EXTINF:-1,TNT HD-IK1608
+http://191.52.214.5:8000/play/a024/index.m3u8
+#EXTINF:-1,TNT Series HD-IK1618-OK
+http://191.52.214.5:8000/play/a059/index.m3u8
+#EXTINF:-1,Warner Channel HD-IK1631-HD
+http://191.52.214.5:8000/play/a01u/index.m3u8
