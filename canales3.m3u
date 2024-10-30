@@ -31,6 +31,10 @@ http://190.43.92.141:8600/play/a17q/index.m3u8
 http://190.43.92.141:8600/play/a1ij/index.m3u8
 #EXTINF:-1,HBO XTREME HD
 http://190.43.92.141:8600/play/a0vl/index.m3u8
+#EXTINF:-1, HBO Signature
+http://181.209.114.13:8000/play/a02c/index.m3u8
+#EXTINF:-1, HBO Xtreme
+http://181.209.114.13:8000/play/a02b/index.m3u8
 #EXTINF:-1 ,ID
 http://45.171.111.255:8989/play/a00b/index.m3u8
 #EXTINF:-1 ,Multipremier
