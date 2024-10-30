@@ -21,6 +21,16 @@ http://45.171.111.255:8989/play/a011/index.m3u8
 http://45.171.111.255:8989/play/a018/index.m3u8
 #EXTINF:-1 ,Golden
 http://45.171.111.255:8989/play/a01c/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://190.43.92.141:8600/play/a0et/index.m3u8
+#EXTINF:-1,HBO HD
+http://190.43.92.141:8600/play/a0ej/index.m3u8
+#EXTINF:-1,HBO MUNDI
+http://190.43.92.141:8600/play/a17q/index.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://190.43.92.141:8600/play/a1ij/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://190.43.92.141:8600/play/a0vl/index.m3u8
 #EXTINF:-1 ,ID
 http://45.171.111.255:8989/play/a00b/index.m3u8
 #EXTINF:-1 ,Multipremier
