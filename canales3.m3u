@@ -27,8 +27,6 @@ http://45.171.111.255:8989/play/a00b/index.m3u8
 http://45.171.111.255:8989/play/a00e/index.m3u8
 #EXTINF:-1 ,Paramount
 http://45.171.111.255:8989/play/a01l/index.m3u8
-#EXTINF:-1 ,RT
-http://45.171.111.255:8989/play/a022/index.m3u8
 #EXTINF:-1 ,Sony
 http://45.171.111.255:8989/play/a01r/index.m3u8
 #EXTINF:-1 ,Space
