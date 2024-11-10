@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 ,#EXTINF:-1.AXN
+#EXTINF:-1,AXN
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.AXN
+#EXTINF:-1,AXN
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AXN/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.CINECANAL
+#EXTINF:-1,CINECANAL
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CINECANAL/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.CINEMAX
+#EXTINF:-1,CINEMAX
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CINEMAX/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.DHE
+#EXTINF:-1,DHE
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DHE/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.DISCOVERYID
+#EXTINF:-1,DISCOVERYID
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISCOVERYID/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.FX
+#EXTINF:-1,FX
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/FX/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.GOLDEN
+#EXTINF:-1,GOLDEN
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/GOLDEN/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.GOLDENPLUS
+#EXTINF:-1,GOLDENPLUS
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/GOLDENPLUS/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.HISTORY
+#EXTINF:-1,HISTORY
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/HISTORY/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.PARAMOUNT
+#EXTINF:-1,PARAMOUNT
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/PARAMOUNT/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.SPACE
+#EXTINF:-1,SPACE
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/SPACE/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.STAR
+#EXTINF:-1,STAR
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/STAR/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.SYFY
+#EXTINF:-1,SYFY
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.TCM
+#EXTINF:-1,TCM
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TCM/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.TNT
+#EXTINF:-1,TNT
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNT/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.TNTSERIES
+#EXTINF:-1,TNTSERIES
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNTSERIES/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.TNTSERIES
+#EXTINF:-1,TNTSERIES
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNTSERIES/20-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.UNIVERSAL
+#EXTINF:-1,UNIVERSAL
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/UNIVERSAL/40-hls/live-media.m3u8
-#EXTINF:-1 ,#EXTINF:-1.WARNERCHANNEL
+#EXTINF:-1,WARNERCHANNEL
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/WARNERCHANNEL/40-hls/live-media.m3u8
 #EXTINF:-1,HBO 2 HD-IK1661-OK
 http://191.52.214.5:8000/play/a06o/index.m3u8
