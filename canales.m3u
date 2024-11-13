@@ -45,11 +45,11 @@ http://191.52.214.5:8000/play/a06o/index.m3u8
 http://191.52.214.5:8000/play/a02z/index.m3u8
 #EXTINF:-1,HBO XTREME HD-IK1632-OK
 http://191.52.214.5:8000/play/a03x/index.m3
-#EXTINF:-1,HBO HD
-http://168.181.122.234:8000/play/a02o/index.m3u8
-#EXTINF:-1,HBO Plus HD
-http://168.181.122.234:8000/play/a02x/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://168.181.122.234:8000/play/a02s/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://168.181.122.234:8000/play/a02p/index.m3u8
+#EXTINF:-1,Latino | HBO
+http://feextesca.fyi:2082/admironold/7NeFFyN44PSYold/372675
+#EXTINF:-1,Latino | HBO 2
+http://feextesca.fyi:2082/admironold/7NeFFyN44PSYold/372676
+#EXTINF:-1,Latino | HBO Plus
+http://feextesca.fyi:2082/admironold/7NeFFyN44PSYold/372678
+#EXTINF:-1,Latino | HBO Xtreme
+http://feextesca.fyi:2082/admironold/7NeFFyN44PSYold/372681
