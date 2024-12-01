@@ -1,44 +1,64 @@
 #EXTM3U
-#EXTINF:-1,AXN
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
-#EXTINF:-1,AXN
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AXN/40-hls/live-media.m3u8
-#EXTINF:-1,CINECANAL
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CINECANAL/40-hls/live-media.m3u8
-#EXTINF:-1,CINEMAX
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CINEMAX/40-hls/live-media.m3u8
-#EXTINF:-1,DHE
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DHE/40-hls/live-media.m3u8
-#EXTINF:-1,DISCOVERYID
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISCOVERYID/40-hls/live-media.m3u8
-#EXTINF:-1,FX
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/FX/40-hls/live-media.m3u8
-#EXTINF:-1,GOLDEN
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/GOLDEN/40-hls/live-media.m3u8
-#EXTINF:-1,GOLDENPLUS
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/GOLDENPLUS/40-hls/live-media.m3u8
-#EXTINF:-1,HISTORY
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/HISTORY/40-hls/live-media.m3u8
-#EXTINF:-1,PARAMOUNT
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/PARAMOUNT/40-hls/live-media.m3u8
-#EXTINF:-1,SPACE
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/SPACE/40-hls/live-media.m3u8
-#EXTINF:-1,STAR
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/STAR/40-hls/live-media.m3u8
-#EXTINF:-1,SYFY
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
-#EXTINF:-1,TCM
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TCM/40-hls/live-media.m3u8
-#EXTINF:-1,TNT
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNT/40-hls/live-media.m3u8
-#EXTINF:-1,TNTSERIES
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNTSERIES/40-hls/live-media.m3u8
-#EXTINF:-1,TNTSERIES
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNTSERIES/20-hls/live-media.m3u8
-#EXTINF:-1,UNIVERSAL
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/UNIVERSAL/40-hls/live-media.m3u8
-#EXTINF:-1,WARNERCHANNEL
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/WARNERCHANNEL/40-hls/live-media.m3u8
+#EXTINF:-1,MX | A&E
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/20
+#EXTINF:-1,MX | AXN
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/21
+#EXTINF:-1,MX | Cinecanal
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/73
+#EXTINF:-1,MX | Cinemax
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/82
+#EXTINF:-1,MX | Discovery ID
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/32
+#EXTINF:-1,MX | FX
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/19
+#EXTINF:-1,MX | Glitz
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/36
+#EXTINF:-1,MX | Golden
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1624
+#EXTINF:-1,MX | Golden Edge
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/84
+#EXTINF:-1,MX | Golden Plus
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/75
+#EXTINF:-1,MX | Golden Premier
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/83
+#EXTINF:-1,MX | HBO
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
+#EXTINF:-1,MX | HBO 2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/121
+#EXTINF:-1,MX | HBO Mundi
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1628
+#EXTINF:-1,MX | HBO Plus
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/610
+#EXTINF:-1,MX | HBO Signature
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/118
+#EXTINF:-1,MX | HBO Xtreme
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
+#EXTINF:-1,MX | Paramount
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1166
+#EXTINF:-1,MX | Sony
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/16
+#EXTINF:-1,MX | Space
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/79
+#EXTINF:-1,MX | Star Channel
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
+#EXTINF:-1,MX | Studio Universal
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/86
+#EXTINF:-1,MX | TCM
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/88
+#EXTINF:-1,MX | TNT
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/74
+#EXTINF:-1,MX | Universal Cinema
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1662
+#EXTINF:-1,MX | Universal Crime
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1663
+#EXTINF:-1,MX | Universal Premiere
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1661
+#EXTINF:-1,MX | Universal Reality
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1664
+#EXTINF:-1,MX | Universal TV
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/18
+#EXTINF:-1,MX | Warner
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/17
 #EXTINF:-1,HBO 2 HD-IK1661-OK
 http://191.52.214.5:8000/play/a06o/index.m3u8
 #EXTINF:-1,HBO HD-IK1663
