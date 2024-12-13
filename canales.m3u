@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1,HBO 2 HD-IK1661-OK
 http://191.52.214.5:8000/play/a06o/index.m3u8
-#EXTINF:-1,HBO HD-IK1663
-http://191.52.214.5:8000/play/a02z/index.m3u8
-#EXTINF:-1,HBO XTREME HD-IK1632-OK
-http://191.52.214.5:8000/play/a03x/index.m3
 #EXTINF:-1,Latino | HBO
 http://feextesca.fyi:2082/admironold/7NeFFyN44PSYold/372675
 #EXTINF:-1,Latino | HBO 2
