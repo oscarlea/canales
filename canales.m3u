@@ -617,3 +617,7 @@ http://home-playtv.com:8080/movie/MagdielCampos02/DQPAZ/566548.mkv
 http://home-playtv.com:8080/movie/MagdielCampos02/DQPAZ/537561.mkv
 #EXTINF:-1 ,WWE WrestleMania XL Sunday (2024)
 http://home-playtv.com:8080/movie/MagdielCampos02/DQPAZ/537562.mkv
+#EXTINF:-1 ,Playboy
+http://201.159.113.219:49000/play/a00q/index.m3u8
+#EXTINF:-1 ,VENUS
+http://201.159.113.219:49000/play/a02p/index.m3u8
