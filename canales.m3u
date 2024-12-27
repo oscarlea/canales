@@ -5,6 +5,22 @@ http://191.52.214.5:8000/play/a06o/index.m3u8
 http://191.52.214.5:8000/play/a02z/index.m3u8
 #EXTINF:-1,HBO XTREME HD-IK1632-OK
 http://191.52.214.5:8000/play/a03x/index.m3u8
+#EXTINF:-1 ,Cinemax HD-IK1627-OK
+http://191.52.214.5:8000/play/a02a/index.m3u8
+#EXTINF:-1 ,FX HD-IKS-1625-OK
+http://191.52.214.5:8000/play/a02r/index.m3u8
+#EXTINF:-1 ,Golden HD-IK1662-OK
+http://191.52.214.5:8000/play/a03b/index.m3u8
+#EXTINF:-1 ,Paramount HD-IK1619-OK
+http://191.52.214.5:8000/play/a032/index.m3u8
+#EXTINF:-1 ,Space HD-IK1626-OK
+http://191.52.214.5:8000/play/a01w/index.m3u8
+#EXTINF:-1 ,STAR CHANNEL HD-IK1629-OK
+http://191.52.214.5:8000/play/a02k/index.m3u8
+#EXTINF:-1 ,TNT HD-IK1608
+http://191.52.214.5:8000/play/a024/index.m3u8
+#EXTINF:-1 ,Warner Channel HD-IK1631-HD
+http://191.52.214.5:8000/play/a01u/index.m3u8
 #EXTINF:-1 ,Playboy
 http://201.159.113.219:49000/play/a00q/index.m3u8
 #EXTINF:-1 ,VENUS
