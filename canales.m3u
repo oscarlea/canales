@@ -1,48 +1,10 @@
 #EXTM3U
 #EXTINF:-1,HBO 2 HD-IK1661-OK
 http://191.52.214.5:8000/play/a06o/index.m3u8
-#EXTINF:-1,Latino | HBO
-http://feextesca.fyi:2082/admironold/7NeFFyN44PSYold/372675
-#EXTINF:-1,Latino | HBO 2
-http://feextesca.fyi:2082/admironold/7NeFFyN44PSYold/372676
-#EXTINF:-1,Latino | HBO Plus
-http://feextesca.fyi:2082/admironold/7NeFFyN44PSYold/372678
-#EXTINF:-1,Latino | HBO Xtreme
-http://feextesca.fyi:2082/admironold/7NeFFyN44PSYold/372681
-#EXTINF:-1,|MX| HBO XTREME
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98403
-#EXTINF:-1,|MX| HBO 2
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98404
-#EXTINF:-1,|MX| HBO
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98405
-#EXTINF:-1,|MX| HBO Plus HD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98406
-#EXTINF:-1,|MX| STAR ACTION
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98407
-#EXTINF:-1,|MX| SYFY HD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98420
-#EXTINF:-1,MX: SyFy
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/54094
-#EXTINF:-1,|MX| TCM HD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98421
-#EXTINF:-1,|MX| STAR CHANNEL HD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98434
-#EXTINF:-1,|MX| SONY FHD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98435
-#EXTINF:-1,|MX| COMEDY CENTRAL FHD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98436
-#EXTINF:-1,|MX| AMC FHD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98437
-#EXTINF:-1,|MX| TNT SERIES FHD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98438
-#EXTINF:-1,|MX| AXN FHD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98445
-#EXTINF:-1,|MX| UNIVERSAL CHANNEL FHD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/98450
-#EXTINF:-1,MX: Paramount Channel HD
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/54087
-#EXTINF:-1,MX: Tru TV
-http://megaott.live:8080/AQ93mKfZqGZn/a37NBF4Qz2DA/54108
+#EXTINF:-1,HBO HD-IK1663
+http://191.52.214.5:8000/play/a02z/index.m3u8
+#EXTINF:-1,HBO XTREME HD-IK1632-OK
+http://191.52.214.5:8000/play/a03x/index.m3u8
 #EXTINF:-1 ,Playboy
 http://201.159.113.219:49000/play/a00q/index.m3u8
 #EXTINF:-1 ,VENUS
