@@ -1,23 +1,91 @@
 #EXTM3U
-#EXTINF:-1,HBO 2 HD-IK1661-OK
-http://191.52.214.5:8000/play/a06o/index.m3u8
-#EXTINF:-1,HBO HD-IK1663
-http://191.52.214.5:8000/play/a02z/index.m3u8
-#EXTINF:-1,HBO XTREME HD-IK1632-OK
-http://191.52.214.5:8000/play/a03x/index.m3u8
-#EXTINF:-1 ,Cinemax HD-IK1627-OK
-http://191.52.214.5:8000/play/a02a/index.m3u8
-#EXTINF:-1 ,FX HD-IKS-1625-OK
-http://191.52.214.5:8000/play/a02r/index.m3u8
-#EXTINF:-1 ,Golden HD-IK1662-OK
-http://191.52.214.5:8000/play/a03b/index.m3u8
-#EXTINF:-1 ,Paramount HD-IK1619-OK
-http://191.52.214.5:8000/play/a032/index.m3u8
-#EXTINF:-1 ,Space HD-IK1626-OK
-http://191.52.214.5:8000/play/a01w/index.m3u8
-#EXTINF:-1 ,STAR CHANNEL HD-IK1629-OK
-http://191.52.214.5:8000/play/a02k/index.m3u8
-#EXTINF:-1 ,TNT HD-IK1608
-http://191.52.214.5:8000/play/a024/index.m3u8
-#EXTINF:-1 ,Warner Channel HD-IK1631-HD
-http://191.52.214.5:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinemax (CO)" tvg-logo="http://tvgolatino.com:8080/images/999be455c65517ed2c6afe8183ef1e42.png" group-title="LAT: CINE TV",Cine TV: Cinemax (CO)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79904.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinemax (MX)" tvg-logo="https://static.epg.best/mx/Cinemax.mx.png" group-title="LAT: CINE TV",Cine TV: Cinemax (MX)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79905.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinecanal (CO)" tvg-logo="https://static.epg.best/co/Cinecanal.co.png" group-title="LAT: CINE TV",Cine TV: Cinecanal (CO)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79897.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinecanal (MX)" tvg-logo="https://static.epg.best/co/Cinecanal.co.png" group-title="LAT: CINE TV",Cine TV: Cinecanal (MX)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79898.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="LAT: CINE TV",Cine TV: HBO
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO 2" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="LAT: CINE TV",Cine TV: HBO 2
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO 2 Full HD" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="LAT: CINE TV",Cine TV: HBO 2 Full HD
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79973.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO 2 HD" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="LAT: CINE TV",Cine TV: HBO 2 HD
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79975.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Full HD" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="LAT: CINE TV",Cine TV: HBO Full HD
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO HD" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="LAT: CINE TV",Cine TV: HBO HD
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79982.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Plus" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="LAT: CINE TV",Cine TV: HBO Plus
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Plus Full HD" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="LAT: CINE TV",Cine TV: HBO Plus Full HD
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Plus Full HD (ARG)(Dual Audio)" tvg-logo="http://tvgolatino.com:8080/images/3ad6f23f18989b6d2750960ecdc0fda2.png" group-title="LAT: CINE TV",Cine TV: HBO Plus Full HD (ARG)(Dual Audio)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79986.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Plus HD" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="LAT: CINE TV",Cine TV: HBO Plus HD
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79987.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Xtreme" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="LAT: CINE TV",Cine TV: HBO Xtreme
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79995.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Xtreme Full HD" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="LAT: CINE TV",Cine TV: HBO Xtreme Full HD
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/79997.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/4833e412-2a80-4575-951c-d7cf825495a1.png" group-title="LAT: PELICULAS (VIP)",HBO (ARG)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107756.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Oeste_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/a122a355-ea34-444e-bb99-e55e1fc9eb13.png" group-title="LAT: PELICULAS (VIP)",HBO Oeste_HD  (MEX)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107758.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus_Oeste_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/cea85232-0f1e-4025-94b1-d69e27a0f1e9.png" group-title="LAT: PELICULAS (VIP)",HBO Plus_Oeste_HD  (MEX)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107759.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD_Mexico  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/2a733417-bbdc-4e70-9c3b-6e7288eb5d34.png" group-title="LAT: PELICULAS (VIP)",HBO2 HD_Mexico  (MEX)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107761.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO_2 (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/3867787eb372dc6eb595fdf629fa602f" group-title="LAT: PELICULAS (VIP)",HBO_2 (ARG)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107762.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO_2 (CHL)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/3867787eb372dc6eb595fdf629fa602f" group-title="LAT: PELICULAS (VIP)",HBO_2 (CHL)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107763.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO_Plus (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/96f385d5-5639-46ae-8587-b8af15544589.png" group-title="LAT: PELICULAS (VIP)",HBO_Plus (ARG)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107764.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SyFy" tvg-logo="" group-title="SPAIN",ES: SyFy
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/80718.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SyFy FHD" tvg-logo="" group-title="SPAIN",ES: SyFy FHD
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/80720.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SyFy HD" tvg-logo="" group-title="SPAIN",ES: SyFy HD
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/80719.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="" group-title="SPAIN",ES: TNT
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/80724.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT FHD" tvg-logo="" group-title="SPAIN",ES: TNT FHD
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/80726.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD" tvg-logo="" group-title="SPAIN",ES: TNT HD
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/80725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/91219067-0362-45cc-bf36-ed3a65f47746.png" group-title="LAT: PELICULAS (VIP)",Cinemax (ARG)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107750.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax (CHL)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/91219067-0362-45cc-bf36-ed3a65f47746.png" group-title="LAT: PELICULAS (VIP)",Cinemax (CHL)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107751.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax COL" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/91219067-0362-45cc-bf36-ed3a65f47746.png" group-title="LAT: PELICULAS (VIP)",Cinemax COL
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107753.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX Movies_Oeste_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/57bca4f4-9101-45a4-b9b5-cdcedab9c5de.png" group-title="LAT: PELICULAS (VIP)",FX Movies_Oeste_HD  (MEX)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107754.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/e6403357-9f8f-4650-9ffe-803eb2e6d0b3.png" group-title="LAT: PELICULAS (VIP)",Space (ARG)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107765.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space Latin_Am_Mexico_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/544db56e-b467-4e23-877a-7abd00b60954.png" group-title="LAT: PELICULAS (VIP)",Space Latin_Am_Mexico_HD  (MEX)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107766.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACE_ANDES (CHL)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/d16b293cb3e5149f6ba313f009c199e5" group-title="LAT: PELICULAS (VIP)",SPACE_ANDES (CHL)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107767.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/b0cc1d57-648b-44b6-a582-ddfffc8cb612.png" group-title="LAT: PELICULAS (VIP)",Star Channel  (MEX)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107769.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/c1995fe3-66c0-4ef8-86ef-2b2e32908adb.png" group-title="LAT: PELICULAS (VIP)",Studio Universal_HD  (MEX)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107778.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio_Universal (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/32b7df0b713be38216c72ad54f5c4ec3" group-title="LAT: PELICULAS (VIP)",Studio_Universal (ARG)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107779.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Chile_CH" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/26b9a8063be67e2349166b84c8bfc944" group-title="LAT: PELICULAS (VIP)",Universal Chile_CH
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107780.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/c1e48866-3022-483a-993f-7c1ef0f5fa39.png" group-title="LAT: PELICULAS (VIP)",Universal TV  (MEX)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107781.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema (ECU)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/39b35e7d-72e2-4ea1-8156-d28f2cb7ed41.png" group-title="LAT: PELICULAS (VIP)",Universal Cinema (ECU)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107782.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/26b9a8063be67e2349166b84c8bfc944" group-title="LAT: PELICULAS (VIP)",Universal Channel (ARG)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel_Mexico_HD  (MEX)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/2082c005-e8db-4b66-8313-249e1cc96244.png" group-title="LAT: PELICULAS (VIP)",Warner Channel_Mexico_HD  (MEX)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107784.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner_Channel (ARG)" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/f055505c678118c1c2717c73ec23f750" group-title="LAT: PELICULAS (VIP)",Warner_Channel (ARG)
+http://orbytdrm.xyz:8080/live/chaosatt/DuQKhEhREKVH/107785.ts
