@@ -1,24 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",A&E HD
 http://181.198.67.62:8000/play/a1dp
-#EXTINF:-1 group-title="-",Cinecanal
-http://181.198.67.62:8000/play/a15x
 #EXTINF:-1 group-title="-",Cinecanal HD
 http://181.198.67.62:8000/play/a1cr
-#EXTINF:-1 group-title="-",Cinemax
-http://181.198.67.62:8000/play/a0te
 #EXTINF:-1 group-title="-",Cinemax HD
 http://181.198.67.62:8000/play/a0nv
-#EXTINF:-1 group-title="-",FX
-http://181.198.67.62:8000/play/a01g
 #EXTINF:-1 group-title="-",FX HD
 http://181.198.67.62:8000/play/a02w
-#EXTINF:-1 group-title="-",Golden
-http://181.198.67.62:8000/play/a0ec
 #EXTINF:-1 group-title="-",Golden HD
 http://181.198.67.62:8000/play/a1i2
-#EXTINF:-1 group-title="-",HBO
-http://181.198.67.62:8000/play/a0ii
 #EXTINF:-1 group-title="-",HBO Family HD
 http://181.198.67.62:8000/play/a09n
 #EXTINF:-1 group-title="-",HBO HD
@@ -37,18 +27,12 @@ http://181.198.67.62:8000/play/a039
 http://181.198.67.62:8000/play/a09d
 #EXTINF:-1 group-title="-",STAR Channel
 http://181.198.67.62:8000/play/a0n6
-#EXTINF:-1 group-title="-",Sony
-http://181.198.67.62:8000/play/a01n
 #EXTINF:-1 group-title="-",Sony Movies HD
 http://181.198.67.62:8000/play/a0hb
-#EXTINF:-1 group-title="-",Space
-http://181.198.67.62:8000/play/a11i
 #EXTINF:-1 group-title="-",Space HD
 http://181.198.67.62:8000/play/a01q
 #EXTINF:-1 group-title="-",Studio Universal HD
 http://181.198.67.62:8000/play/a1gl
-#EXTINF:-1 group-title="-",TNT
-http://181.198.67.62:8000/play/a027
 #EXTINF:-1 group-title="-",TNT HD
 http://181.198.67.62:8000/play/a0ey
 #EXTINF:-1 group-title="-",TNT Series HD
@@ -59,3 +43,23 @@ http://181.198.67.62:8000/play/a1gm
 http://181.198.67.62:8000/play/a01e
 #EXTINF:-1 group-title="-",Warner Channel HD
 http://181.198.67.62:8000/play/a01o
+#EXTINF:-1 group-title="2",Cinecanal HD
+http://205.235.6.29:8000/play/a0mu/index.m3u8
+#EXTINF:-1 group-title="2",Cinecanal HD
+http://205.235.6.29:8000/play/a0nf/index.m3u8
+#EXTINF:-1 group-title="2",FX HD
+http://205.235.6.29:8000/play/a0js/index.m3u8
+#EXTINF:-1 group-title="2",HBO HD
+http://205.235.6.29:8000/play/a0l5/index.m3u8
+#EXTINF:-1 group-title="2",History Channel HD
+http://205.235.6.29:8000/play/a0nd/index.m3u8
+#EXTINF:-1 group-title="2",STAR CHANNEL HD
+http://205.235.6.29:8000/play/a0jg/index.m3u8
+#EXTINF:-1 group-title="2",Sony HD
+http://205.235.6.29:8000/play/a0ng/index.m3u8
+#EXTINF:-1 group-title="2",Space HD
+http://205.235.6.29:8000/play/a0ji/index.m3u8
+#EXTINF:-1 group-title="2",TNT Series HD
+http://205.235.6.29:8000/play/a0m1/index.m3u8
+#EXTINF:-1 group-title="2",Warner Channel HD
+http://205.235.6.29:8000/play/a0jh/index.m3u8
