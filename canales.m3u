@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",A&E HD
+#EXTINF:-1 group-title="Canales",A&E HD
 http://181.198.67.62:8000/play/a1dp
-#EXTINF:-1 group-title="-",Cinecanal HD
+#EXTINF:-1 group-title="Canales",Cinecanal HD
 http://181.198.67.62:8000/play/a1cr
-#EXTINF:-1 group-title="-",Cinemax HD
+#EXTINF:-1 group-title="Canales",Cinemax HD
 http://181.198.67.62:8000/play/a0nv
-#EXTINF:-1 group-title="-",FX HD
+#EXTINF:-1 group-title="Canales",FX HD
 http://181.198.67.62:8000/play/a02w
-#EXTINF:-1 group-title="-",Golden HD
+#EXTINF:-1 group-title="Canales",Golden HD
 http://181.198.67.62:8000/play/a1i2
-#EXTINF:-1 group-title="-",HBO Family HD
+#EXTINF:-1 group-title="Canales",HBO Family HD
 http://181.198.67.62:8000/play/a09n
-#EXTINF:-1 group-title="-",HBO HD
+#EXTINF:-1 group-title="Canales",HBO HD
 http://181.198.67.62:8000/play/a036
-#EXTINF:-1 group-title="-",HBO POP HD
+#EXTINF:-1 group-title="Canales",HBO POP HD
 http://181.198.67.62:8000/play/a01t
-#EXTINF:-1 group-title="-",HBO XTREME HD
+#EXTINF:-1 group-title="Canales",HBO XTREME HD
 http://181.198.67.62:8000/play/a09o
-#EXTINF:-1 group-title="-",ID
+#EXTINF:-1 group-title="Canales",ID
 http://181.198.67.62:8000/play/a02g
-#EXTINF:-1 group-title="-",Paramount HD
+#EXTINF:-1 group-title="Canales",Paramount HD
 http://181.198.67.62:8000/play/a1gn
-#EXTINF:-1 group-title="-",Paramount HD
+#EXTINF:-1 group-title="Canales",Paramount HD
 http://181.198.67.62:8000/play/a039
-#EXTINF:-1 group-title="-",STAR CHANNEL HD
+#EXTINF:-1 group-title="Canales",STAR CHANNEL HD
 http://181.198.67.62:8000/play/a09d
-#EXTINF:-1 group-title="-",STAR Channel
+#EXTINF:-1 group-title="Canales",STAR Channel
 http://181.198.67.62:8000/play/a0n6
-#EXTINF:-1 group-title="-",Sony Movies HD
+#EXTINF:-1 group-title="Canales",Sony Movies HD
 http://181.198.67.62:8000/play/a0hb
-#EXTINF:-1 group-title="-",Space HD
+#EXTINF:-1 group-title="Canales",Space HD
 http://181.198.67.62:8000/play/a01q
-#EXTINF:-1 group-title="-",Studio Universal HD
+#EXTINF:-1 group-title="Canales",Studio Universal HD
 http://181.198.67.62:8000/play/a1gl
-#EXTINF:-1 group-title="-",TNT HD
+#EXTINF:-1 group-title="Canales",TNT HD
 http://181.198.67.62:8000/play/a0ey
-#EXTINF:-1 group-title="-",TNT Series HD
+#EXTINF:-1 group-title="Canales",TNT Series HD
 http://181.198.67.62:8000/play/a02v
-#EXTINF:-1 group-title="-",Universal
+#EXTINF:-1 group-title="Canales",Universal
 http://181.198.67.62:8000/play/a1gm
-#EXTINF:-1 group-title="-",Universal
+#EXTINF:-1 group-title="Canales",Universal
 http://181.198.67.62:8000/play/a01e
-#EXTINF:-1 group-title="-",Warner Channel HD
+#EXTINF:-1 group-title="Canales",Warner Channel HD
 http://181.198.67.62:8000/play/a01o
