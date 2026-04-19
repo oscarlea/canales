@@ -1,7 +1,8 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=vlc/3.0.20
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hPm6RPT9CrzzPzbIOHbB83w9dQ2.jpg" group-title="2025 | Crimen",Laws of Man (2025)
-http://xxip9.top:8080/movie/NfBs2M/444173/222977.mp4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://xxip9.top:8080/movie/NfBs2M/444173/222977.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/frBZoyLnQNuSLrZukOZjOsiKE8g.jpg" group-title="2025 | Acción",Sunray: Fallen Soldier (2025)
 http://xxip9.top:8080/movie/NfBs2M/444173/222985.mp4
